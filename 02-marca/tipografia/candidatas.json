@@ -39,7 +39,7 @@
     {
       "id": "F4",
       "familia": "Big Shoulders Display",
-      "natureza": "condensada extrema de sinalizacao, terminais cortados em angulo",
+      "natureza": "condensada extrema de sinalizacao, ombro quadrado, terminais horizontais",
       "arquivo": "fontes/bigshouldersdisplay/BigShouldersDisplay[wght].ttf",
       "instancia": { "wght": 800 },
       "designer": "Patric King",

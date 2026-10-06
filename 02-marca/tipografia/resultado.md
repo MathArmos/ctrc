@@ -30,7 +30,7 @@ A exigência era **natureza diferente entre si**, nunca oito variações da mesm
 | **F1** | Anton | display ultra pesada, caixa alta larga | único |
 | **F2** | Oswald | condensada de sinalização, a referência do setor | 700 |
 | **F3** | Archivo Black | grotesca industrial pesada, larga | único |
-| **F4** | Big Shoulders Display | condensada extrema de sinalização, terminais cortados em ângulo | 800 |
+| **F4** | Big Shoulders Display | condensada extrema de sinalização, ombro quadrado, terminais horizontais | 800 |
 | **F5** | Chakra Petch | chanfrada: cantos cortados em ângulo, tecnológica | Bold |
 | **F6** | Teko | condensada esportiva, cantos duros, sem chanfro | 700 |
 | **F7** | Inter | neutra geométrica, **controle do conjunto** | 900 |
@@ -160,8 +160,8 @@ Oswald** como a segura.
 **Por que a F4:**
 1. é a que **mais perto chega da malha** (2°), então a P-09 fecha pelo lado de "a malha se
    sustenta", e o parágrafo do eixo conceitual não precisa ser mexido;
-2. os terminais dela **já são cortados em ângulo**, que é material pronto para o símbolo do
-   item 13 ser derivado da letra, que é o que a **D-09** manda fazer;
+2. o **ombro quadrado e o lado quase reto** dela dão um C que já é quase geometria, que é
+   material direto para o símbolo do item 13 sair da letra, que é o que a **D-09** manda fazer;
 3. é a **mais compacta a 16 px** (33 px), empatada com a Anton, e sem o empastamento da Anton;
 4. é uma **fonte de sinalização**, e o PRD §5 diz que sinalização, fachada, parede e uniforme
    valem mais que papelaria neste projeto;
@@ -181,3 +181,22 @@ medidas e a um comando de distância.
 ⚠️ **Nenhuma foi vista ao lado de um símbolo**, e o símbolo muda a leitura de todas: palavra
 larga pede símbolo pequeno, e palavra estreita aguenta símbolo grande.
 ⚠️ **Nenhuma passou por busca figurativa no INPI** (P-03, pePI fora do ar).
+
+## 8. Correção feita depois de a família ser escolhida
+
+🔴 **A natureza da F4 estava escrita errada, e o erro era meu.** Eu havia descrito a Big
+Shoulders como tendo *"terminais cortados em ângulo"*, e isso foi **afirmado de reputação,
+nunca medido**. Aberto o contorno do C, os dois terminais da boca são **horizontais** (duas
+retas de 161 unidades a 0°), e a letra inteira só tem aresta oblíqua na **perna do R**. A
+tabela de ângulos da seção 4 já dizia isso desde o começo: a F4 aparece lá com 107° e 105°
+e mais nada. **Era a prosa que contradizia a medida, e não o contrário.**
+
+✅ **O que isso muda, e o que não muda.** Não muda a recomendação nem a escolha: a F4
+continua sendo a que mais perto chega da malha, a mais compacta a 16 px e a mais adequada em
+sinalização. **Muda o motivo 2 da seção 6**, que apontava para um ângulo que não existe: o
+que a F4 entrega ao símbolo não é terminal angulado, é **ombro quadrado e lado quase reto**,
+ou seja um C que já é quase polígono.
+
+📌 **E muda uma coisa no item 14**: cortar os terminais na malha deixa de ser *acentuar o que
+a fonte já faz* e passa a ser **a modificação principal do lettering**, que é o que a D-03
+autoriza e o que separa um logotipo de uma palavra digitada.
