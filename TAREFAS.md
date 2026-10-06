@@ -38,7 +38,7 @@ por último. O driver assume o desenho no Figma, e a medição vira régua do qu
 - [x] 16. Versão horizontal `OBR` · vão de 1u (u = 161,2, a espessura de haste medida)
 - [x] 17. Versão vertical `OBR` · vão de 0,75u
 - [x] 18. Símbolo isolado para avatar · razão 0,580 depois do alargamento, fidelidade **0,860** a 16 px, acima do piso
-- [ ] 19. Versão colorida `OBR` · 🔴 **PRESA AO ITEM 27**: o eixo conceitual acusa a marca atual de ter **três vermelhos**, então escolher um vermelho no olho aqui contradiria o próprio parágrafo. Sai quando a paleta for medida
+- [x] 19. Versão colorida `OBR` · 🟢 **FEITA**: o símbolo leva a cor e a palavra leva a tinta. ⚠️ **A regra caiu da medida e não do olho**: vermelho sobre preto dá **3,80:1**, que reprova texto normal e passa como grafismo, então a palavra não pode ser vermelha no fundo escuro
 - [x] 20. Versão monocromática `OBR` · uma cor chapada só, nas quatro peças
 - [x] 21. Versão positiva `OBR`
 - [x] 22. Versão negativa `OBR` · ⚠️ o fundo escuro é **provisório** (`#111111`) até o item 27
@@ -49,8 +49,8 @@ por último. O driver assume o desenho no Figma, e a medição vira régua do qu
 
 ## Fase 3. Sistema visual (semana 2)
 
-- [ ] 27. Paleta: HEX, RGB, CMYK, Pantone `OBR`
-- [ ] 28. Teste de contraste da paleta
+- [x] 27. Paleta: HEX, RGB, CMYK, Pantone `OBR` · 🟢 **UM VERMELHO SÓ, `#DE0943`**, medido na face difusa da marca na parede, que é a única fonte frontal em luz chapada. Os outros três materiais dão vermelho escuro de halo e de render, e não a cor do material. ⚠️ **O viés quente da fotografia foi MEDIDO e NÃO corrigido**, porque as superfícies de referência podem ser bege de verdade: nasce a **P-10**. 🔴 **Pantone não declarado, de propósito**: não há conversão livre e confiável, e número errado vira tinta errada na gráfica
+- [x] 28. Teste de contraste da paleta · 🔴 **um par reprova e virou regra**: vermelho sobre preto dá 3,80:1, abaixo do piso de 4,5 para texto normal. É o que decide a versão colorida do item 19
 - [x] 29. Tipografia de apoio, licença OFL `OBR` · 🟢 **AS OITO CANDIDATAS ESTÃO COMPOSTAS E MEDIDAS** (02-marca/tipografia/, resultado.md), de naturezas diferentes entre si, cada licença conferida no arquivo e registrada em logs/licencas.md. 🔴 **E ELAS TRAZEM A EVIDÊNCIA DA P-09**: a perna do R da Big Shoulders cai a **2°** dos 19° herdados e a da Oswald a **3°**, enquanto **Anton e Alfa Slab One não têm uma única aresta oblíqua** e matam a malha por construção. ⚠️ **Falta só a escolha da família, que é do driver**
 - [ ] 30. Tipografia de números (carga, recorde)
 - [ ] 31. Grafismo auxiliar derivado do símbolo

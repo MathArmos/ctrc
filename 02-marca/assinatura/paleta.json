@@ -1,0 +1,142 @@
+{
+  "item": 27,
+  "piso": {
+    "textoNormal": 4.5,
+    "textoGrande": 3,
+    "origem": "RNF-04"
+  },
+  "cores": {
+    "ctrc-vermelho": {
+      "hex": "#DE0943",
+      "papel": "a cor da marca, e a unica cor de marca",
+      "rgb": [
+        222,
+        9,
+        67
+      ],
+      "cmyk": [
+        0,
+        96,
+        70,
+        13
+      ]
+    },
+    "ctrc-preto": {
+      "hex": "#111111",
+      "papel": "fundo escuro, tinta principal sobre claro",
+      "rgb": [
+        17,
+        17,
+        17
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        93
+      ]
+    },
+    "ctrc-branco": {
+      "hex": "#FFFFFF",
+      "papel": "tinta sobre vermelho e sobre preto",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "ctrc-cinza": {
+      "hex": "#6E6E6E",
+      "papel": "texto secundario sobre claro",
+      "rgb": [
+        110,
+        110,
+        110
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        57
+      ]
+    }
+  },
+  "matriz": {
+    "ctrc-vermelho": {
+      "ctrc-vermelho": null,
+      "ctrc-preto": 3.8,
+      "ctrc-branco": 4.97,
+      "ctrc-cinza": 1.03
+    },
+    "ctrc-preto": {
+      "ctrc-vermelho": 3.8,
+      "ctrc-preto": null,
+      "ctrc-branco": 18.88,
+      "ctrc-cinza": 3.7
+    },
+    "ctrc-branco": {
+      "ctrc-vermelho": 4.97,
+      "ctrc-preto": 18.88,
+      "ctrc-branco": null,
+      "ctrc-cinza": 5.1
+    },
+    "ctrc-cinza": {
+      "ctrc-vermelho": 1.03,
+      "ctrc-preto": 3.7,
+      "ctrc-branco": 5.1,
+      "ctrc-cinza": null
+    }
+  },
+  "pares": [
+    {
+      "par": "ctrc-branco sobre ctrc-vermelho",
+      "papel": "tinta branca sobre o vermelho",
+      "contraste": 4.97,
+      "texto normal": "passa",
+      "texto grande": "passa"
+    },
+    {
+      "par": "ctrc-vermelho sobre ctrc-branco",
+      "papel": "vermelho sobre branco",
+      "contraste": 4.97,
+      "texto normal": "passa",
+      "texto grande": "passa"
+    },
+    {
+      "par": "ctrc-branco sobre ctrc-preto",
+      "papel": "tinta branca sobre o preto, que e a negativa",
+      "contraste": 18.88,
+      "texto normal": "passa",
+      "texto grande": "passa"
+    },
+    {
+      "par": "ctrc-preto sobre ctrc-branco",
+      "papel": "preto sobre branco, que e a positiva",
+      "contraste": 18.88,
+      "texto normal": "passa",
+      "texto grande": "passa"
+    },
+    {
+      "par": "ctrc-vermelho sobre ctrc-preto",
+      "papel": "vermelho sobre o preto",
+      "contraste": 3.8,
+      "texto normal": "REPROVA",
+      "texto grande": "passa"
+    },
+    {
+      "par": "ctrc-cinza sobre ctrc-branco",
+      "papel": "texto secundario sobre branco",
+      "contraste": 5.1,
+      "texto normal": "passa",
+      "texto grande": "passa"
+    }
+  ],
+  "pantone": "NAO DECLARADO. Ver a secao de Pantone em resultado.md: nao existe conversao livre e confiavel de sRGB para Pantone, e inventar um numero seria pior do que declarar a falta.",
+  "cmyk": "INGENUO, sem perfil de impressao. Orienta, nao fecha impressao."
+}

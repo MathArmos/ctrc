@@ -114,3 +114,27 @@ async function zoom(c, p, f, fundo = '#fff') {
   await sharp({ create: { width: W, height: ALT, channels: 3, background: '#fff' } }).composite(cam).png().toFile('verificacao/folha-03-reducao-medida.png');
   console.log('verificacao/folha-03-reducao-medida.png', W, ALT);
 }
+
+// ---- folha 5: a versao colorida (item 19) ----
+{
+  const W = 1240;
+  const cam = [], txt = [];
+  const a = em('svg/assinatura-horizontal-colorida.svg', 110);
+  const b = em('svg/assinatura-horizontal-colorida-negativa.svg', 110);
+  const v = em('svg/assinatura-vertical-colorida.svg', 110);
+  txt.push(rot('Item 19 · a versao colorida', 50, 52, 26, '#000'));
+  txt.push(rot('o simbolo leva a cor, a palavra leva a tinta. Um elemento colorido so, porque a paleta tem um vermelho so', 50, 78, 14, '#666'));
+  cam.push({ input: await png('svg/assinatura-horizontal-colorida.svg', 110), left: 50, top: 120 });
+  txt.push(rot('colorida positiva · simbolo #DE0943 sobre branco, 4,97:1', 50, 120 + a.h + 28, 14, '#111'));
+  const yNeg = 120 + a.h + 70;
+  cam.push({ input: { create: { width: W - 100, height: b.h + 70, channels: 3, background: '#111111' } }, left: 50, top: yNeg });
+  cam.push({ input: await png('svg/assinatura-horizontal-colorida-negativa.svg', 110, '#111111'), left: 85, top: yNeg + 35 });
+  txt.push(rot('colorida negativa · simbolo #DE0943 sobre #111111, 3,80:1, que passa como grafismo e reprovaria como texto', 50, yNeg + b.h + 98, 14, '#111'));
+  const yV = yNeg + b.h + 130;
+  cam.push({ input: await png('svg/assinatura-vertical-colorida.svg', 110), left: 50, top: yV });
+  txt.push(rot('vertical colorida', 50, yV + v.h + 28, 14, '#111'));
+  const H = yV + v.h + 60;
+  cam.push({ input: Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">${txt.join('')}</svg>`), left: 0, top: 0 });
+  await sharp({ create: { width: W, height: H, channels: 3, background: '#fff' } }).composite(cam).png().toFile('verificacao/folha-05-colorida.png');
+  console.log('verificacao/folha-05-colorida.png', W, H);
+}

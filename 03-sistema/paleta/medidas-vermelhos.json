@@ -1,0 +1,189 @@
+{
+  "fonte": "../../00-briefing/material-cliente/",
+  "saida": [
+    {
+      "arquivo": "fachada-entardecer.jpg",
+      "rotulo": "fachada ao entardecer, retroiluminada",
+      "pixelsVermelhos": 5054,
+      "pctDaImagem": 0.53,
+      "dominantes": [
+        {
+          "hex": "#782828",
+          "rgb": [
+            120,
+            40,
+            40
+          ],
+          "px": 782,
+          "pct": 15.5
+        },
+        {
+          "hex": "#883838",
+          "rgb": [
+            136,
+            56,
+            56
+          ],
+          "px": 425,
+          "pct": 8.4
+        },
+        {
+          "hex": "#982828",
+          "rgb": [
+            152,
+            40,
+            40
+          ],
+          "px": 418,
+          "pct": 8.3
+        }
+      ],
+      "medio": {
+        "hex": "#882F2F",
+        "rgb": [
+          136,
+          47,
+          47
+        ]
+      }
+    },
+    {
+      "arquivo": "fachada-noite.png",
+      "rotulo": "fachada a noite, retroiluminada",
+      "pixelsVermelhos": 11329,
+      "pctDaImagem": 1.5,
+      "dominantes": [
+        {
+          "hex": "#982828",
+          "rgb": [
+            152,
+            40,
+            40
+          ],
+          "px": 1192,
+          "pct": 10.5
+        },
+        {
+          "hex": "#781818",
+          "rgb": [
+            120,
+            24,
+            24
+          ],
+          "px": 1150,
+          "pct": 10.2
+        },
+        {
+          "hex": "#A82828",
+          "rgb": [
+            168,
+            40,
+            40
+          ],
+          "px": 1125,
+          "pct": 9.9
+        }
+      ],
+      "medio": {
+        "hex": "#932629",
+        "rgb": [
+          147,
+          38,
+          41
+        ]
+      }
+    },
+    {
+      "arquivo": "interior-foto-real.jpg",
+      "rotulo": "marca na parede, fotografia real",
+      "pixelsVermelhos": 1768,
+      "pctDaImagem": 0.58,
+      "dominantes": [
+        {
+          "hex": "#E80838",
+          "rgb": [
+            232,
+            8,
+            56
+          ],
+          "px": 114,
+          "pct": 6.4
+        },
+        {
+          "hex": "#D80838",
+          "rgb": [
+            216,
+            8,
+            56
+          ],
+          "px": 69,
+          "pct": 3.9
+        },
+        {
+          "hex": "#782838",
+          "rgb": [
+            120,
+            40,
+            56
+          ],
+          "px": 62,
+          "pct": 3.5
+        }
+      ],
+      "medio": {
+        "hex": "#B01F40",
+        "rgb": [
+          176,
+          31,
+          64
+        ]
+      }
+    },
+    {
+      "arquivo": "interior-render.webp",
+      "rotulo": "interior, render de projeto",
+      "pixelsVermelhos": 2804,
+      "pctDaImagem": 0.35,
+      "dominantes": [
+        {
+          "hex": "#782828",
+          "rgb": [
+            120,
+            40,
+            40
+          ],
+          "px": 269,
+          "pct": 9.6
+        },
+        {
+          "hex": "#783828",
+          "rgb": [
+            120,
+            56,
+            40
+          ],
+          "px": 230,
+          "pct": 8.2
+        },
+        {
+          "hex": "#782818",
+          "rgb": [
+            120,
+            40,
+            24
+          ],
+          "px": 192,
+          "pct": 6.8
+        }
+      ],
+      "medio": {
+        "hex": "#8D392F",
+        "rgb": [
+          141,
+          57,
+          47
+        ]
+      }
+    }
+  ]
+}
