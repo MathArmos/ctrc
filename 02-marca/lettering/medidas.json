@@ -1,0 +1,39 @@
+{
+  "item": 14,
+  "matriz": "Big Shoulders Display, wght 800, SIL OFL 1.1",
+  "modificacoes": {
+    "M1": "perna do R a 19 graus da vertical, largura 161.13",
+    "M2": "terminais do C cortados a 19 graus da vertical, paralelos, em x=470",
+    "M3": "vaos redesenhados C|T 34, T|R 34, R|C 46"
+  },
+  "caixa": {
+    "largura": 2025.43,
+    "altura": 1022.5,
+    "razao": 1.981
+  },
+  "contorno": {
+    "fracaoReta": 49.9
+  },
+  "angulo": {
+    "horizontal": 26.9,
+    "vertical": 48.4,
+    "diagonal51": 0,
+    "obliqua19": 24.7,
+    "fora": 0,
+    "naMalhaD07": 51.6
+  },
+  "verticeMaisAgudo": {
+    "ang": 71,
+    "p": [
+      423.1,
+      628.8
+    ]
+  },
+  "verticesAbaixoDe60": 0,
+  "tintaPct": 51.1,
+  "fidelidade": {
+    "16": 0.81,
+    "24": 0.862,
+    "48": 0.918
+  }
+}
