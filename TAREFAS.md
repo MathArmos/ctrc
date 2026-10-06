@@ -12,24 +12,28 @@ Sem marca = entra no PDF.
 
 - [x] 1. Repositório no GitHub `FORA`
 - [x] 2. Estrutura de pastas `FORA`
-- [ ] 3. Arquivo Figma do projeto `FORA`
+- [ ] 3. Arquivo Figma do projeto `FORA` · 🔴 **MUDOU DE NATUREZA em 2026-10-06**: deixa de ser arquivo de entrega e vira o **kit de trabalho do driver** (guias, peças soltas, assinatura e prancha de redução). Ver § 4 do RFC 000
 - [ ] 4. Log de uso de IA, contínuo desde o primeiro prompt `FORA`
 - [ ] 5. Log de licenças, contínuo `FORA`
 
 ## Fase 1. Diagnóstico (semana 1)
 
-- [ ] 6. Marca atual redesenhada em vetor limpo `FORA`
+- [x] 6. Marca atual redesenhada em vetor limpo `FORA` (02-marca/, medições em marca-atual-medicoes.md)
 - [ ] 7. Auditoria da marca atual, 2 páginas
 - [x] 8. Busca INPI, classes 41 e 25
 - [ ] 9. Quadro comparativo com concorrentes
 - [x] 10. Decisão de nome: **CTRC** (decidido por evidência, ver 01-auditoria)
-- [ ] 11. Eixo conceitual, um parágrafo
+- [x] 11. Eixo conceitual, um parágrafo (02-marca/eixo-conceitual.md, expansão nacional, D-08)
 
 ## Fase 2. Marca (semanas 1 e 2)
 
-- [ ] 12. Exploração do símbolo, 5 a 8 rotas em preto e branco `FORA`
-- [ ] 13. Símbolo escolhido, vetorizado
-- [ ] 14. Lettering CTRC
+🔴 **A ORDEM DESTA FASE INVERTEU EM 2026-10-06** ([RFC 000](docs/rfcs/000-rfc-desenho-no-figma.md), **D-09**).
+A fila passa a ser **29 → 14 → 13**: a tipografia primeiro, o lettering depois, e o símbolo derivado da letra
+por último. O driver assume o desenho no Figma, e a medição vira régua do que ele desenhar.
+
+- [x] 12. Exploração do símbolo, 5 a 8 rotas em preto e branco `FORA` (7 rotas em 02-marca/exploracao-simbolo/, resultado.md) · 🔴 **RECUSADA EM BLOCO em 2026-10-06**: nenhuma falhou em medida, o aprovador recusou pelo olho (*"têm cara de gerado"*). Vira **acervo e matéria-prima do kit**, não origem do ativo
+- [ ] 13. Símbolo escolhido, vetorizado · 🔴 **DEPOIS do 29 e do 14**, e **derivado da letra** (D-09). As 11 variantes de refino ficam em 02-marca/simbolo/
+- [ ] 14. Lettering CTRC · 🔴 **SOBE NA FILA**: vem antes do símbolo (D-09)
 - [ ] 15. Assinatura principal `OBR`
 - [ ] 16. Versão horizontal `OBR`
 - [ ] 17. Versão vertical `OBR`
@@ -47,7 +51,7 @@ Sem marca = entra no PDF.
 
 - [ ] 27. Paleta: HEX, RGB, CMYK, Pantone `OBR`
 - [ ] 28. Teste de contraste da paleta
-- [ ] 29. Tipografia de apoio, licença OFL `OBR`
+- [ ] 29. Tipografia de apoio, licença OFL `OBR` · 🔴 **VIRA O PRIMEIRO PASSO DA MARCA** (D-09): 6 a 8 famílias candidatas, CTRC composto em cada uma, e o driver escolhe
 - [ ] 30. Tipografia de números (carga, recorde)
 - [ ] 31. Grafismo auxiliar derivado do símbolo
 - [ ] 32. Padronagem
@@ -62,6 +66,17 @@ Sem marca = entra no PDF.
 - [ ] 38. Marca em uma cor sobre fotografia
 
 ## Fase 5. Selo de 10 anos (semana 3)
+
+🟡 **EXISTE MATERIAL PILOTO AQUI, FORA DE ORDEM, E NENHUM ITEM FECHOU.** Em 2026-10-05 nasceu
+em `02-marca/selo-10-anos/` o **carimbo de anilha molhada**: anilha de face plana, campo de
+água em seis camadas, corte por limiar, doze prensadas na folha de contato e o A4 a 300 dpi
+pronto para a passada de caneta. Tudo aritmético, **nenhum modelo generativo encostou**
+(D-04). 🔴 **Ele espera QUATRO decisões do driver**: qual prensada, qual secura, o que fazer
+com o `10 ANOS` que afoga em quatro das doze, e qual das duas saídas para os estados de SP e
+SC. ⚠️ **E a tipografia dele é provisória**, presa aos itens 29 e 14, que a **D-09** acabou
+de pôr na frente da fila. 📌 **Ele também é o precedente citado no [RFC 000](docs/rfcs/000-rfc-desenho-no-figma.md)**
+de imperfeição proposital que não parece gerada, e é o plano B se a ASM-A daquele RFC cair.
+📐 [contrato-do-carimbo.md](02-marca/selo-10-anos/contrato-do-carimbo.md)
 
 - [ ] 39. Selo digital, quatro versões
 - [ ] 40. Selo aplicado sobre foto
@@ -117,10 +132,16 @@ Sem par de datas. Fundação 2017 completa 10 anos em 2027, e a inauguração é
 - [ ] 72. Página de declaração de uso de IA `OBR`
 - [ ] 73. Breve explicação do conceito, campo do formulário `OBR`
 - [ ] 74. Montagem e compressão do PDF até 10 MB `OBR`
-- [ ] 75. Imagem PNG ou JPG complementar `OBR`
+- [ ] 75. Imagem PNG ou JPG complementar (o item 5 diz "poderá ser anexada": é opcional, não `OBR`)
 - [ ] 76. Conferência final item a item contra o regulamento
 
 ---
+
+## Estratégia de envio
+
+🟢 **O item 2 permite mais de uma proposta, com uma inscrição separada para cada.** Registrado em 2026-10-05, quando o regulamento entrou no repositório. Isso muda o que fazer com as 5 a 8 rotas do item 12: elas deixam de ser só exploração descartável e passam a ser candidatas possíveis a envio. ⚠️ **Decisão de quantas enviar não foi tomada.**
+
+🔴 **Não existe prazo publicado** (item 5: vale enquanto o formulário estiver aberto). Ter uma versão enviável cedo vale mais que ter a versão perfeita tarde.
 
 ## Pendências de informação
 
