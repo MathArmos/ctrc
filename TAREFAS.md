@@ -12,7 +12,7 @@ Sem marca = entra no PDF.
 
 - [x] 1. Repositório no GitHub `FORA`
 - [x] 2. Estrutura de pastas `FORA`
-- [ ] 3. Arquivo Figma do projeto `FORA` · 🔴 **MUDOU DE NATUREZA em 2026-10-06**: deixa de ser arquivo de entrega e vira o **kit de trabalho do driver** (guias, peças soltas, assinatura e prancha de redução). Ver § 4 do RFC 000
+- [x] 3. Arquivo Figma do projeto `FORA` · 🟢 **O KIT ESTÁ NO AR** em [UD0WZgvNBdOtsouECaHB7g](https://www.figma.com/design/UD0WZgvNBdOtsouECaHB7g/Untitled), no quadro `CTRC · marca` (nó `7:6`), à direita do painel de referências. Traz a assinatura horizontal e a vertical, o símbolo e o lettering isolados, positiva, negativa e monocromática, o teste de redução a 48, 24 e 16 px, a paleta com os quatro valores e a **malha da D-07 como guia**. Os quatro valores da paleta entraram também como **estilos de cor locais**. ⚠️ **Tudo em curvas e editável**: nenhuma peça é imagem. 📌 **As 18 peças soltas que o § 4 do RFC 000 previa NÃO entraram**, e o motivo é que elas perderam a função: o kit existia para o driver escolher dentro do acervo recusado, e o símbolo fechou pela letra. Elas continuam em `02-marca/exploracao-simbolo/` e `02-marca/simbolo/`
 - [ ] 4. Log de uso de IA, contínuo desde o primeiro prompt `FORA`
 - [ ] 5. Log de licenças, contínuo `FORA`
 
