@@ -1,0 +1,95 @@
+{
+  "unidade": "altura de caixa alta = 1000, a mesma do item 6 (marca-atual-medidas.json)",
+  "palavra": "CTRC",
+  "kerning": "NAO aplicado: fontkitten faz mapa um-para-um de caracter para glifo, sem GPOS. Avanco natural de cada glifo, tracking 0. Declarado, nao esquecido: o espacamento e redesenhado a mao no item 14",
+  "familias": [
+    {
+      "id": "F1",
+      "familia": "Anton",
+      "natureza": "display ultra pesada, caixa alta larga, uma espessura so",
+      "arquivo": "fontes/anton/Anton-Regular.ttf",
+      "instancia": null,
+      "designer": "Vernon Adams",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/googlefonts/AntonFont",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/"
+    },
+    {
+      "id": "F2",
+      "familia": "Oswald",
+      "natureza": "condensada de sinalizacao, a referencia do setor",
+      "arquivo": "fontes/oswald/Oswald[wght].ttf",
+      "instancia": { "wght": 700 },
+      "designer": "Vernon Adams, Kalapi Gajjar, Cyreal",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/googlefonts/OswaldFont",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/oswald/"
+    },
+    {
+      "id": "F3",
+      "familia": "Archivo Black",
+      "natureza": "grotesca industrial pesada, larga",
+      "arquivo": "fontes/archivoblack/ArchivoBlack-Regular.ttf",
+      "instancia": null,
+      "designer": "Omnibus-Type",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/Omnibus-Type/Archivo",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/archivoblack/"
+    },
+    {
+      "id": "F4",
+      "familia": "Big Shoulders Display",
+      "natureza": "condensada extrema de sinalizacao, terminais cortados em angulo",
+      "arquivo": "fontes/bigshouldersdisplay/BigShouldersDisplay[wght].ttf",
+      "instancia": { "wght": 800 },
+      "designer": "Patric King",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/xotypeco/big_shoulders",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/bigshouldersdisplay/"
+    },
+    {
+      "id": "F5",
+      "familia": "Chakra Petch",
+      "natureza": "chanfrada: cantos cortados em angulo, tecnologica",
+      "arquivo": "fontes/chakrapetch/ChakraPetch-Bold.ttf",
+      "instancia": null,
+      "designer": "Cadson Demak",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/cadsondemak/chakra-petch",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/chakrapetch/"
+    },
+    {
+      "id": "F6",
+      "familia": "Teko",
+      "natureza": "condensada esportiva, cantos duros, sem chanfro",
+      "arquivo": "fontes/teko/Teko[wght].ttf",
+      "instancia": { "wght": 700 },
+      "designer": "Indian Type Foundry",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/googlefonts/teko",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/teko/"
+    },
+    {
+      "id": "F7",
+      "familia": "Inter",
+      "natureza": "neutra geometrica, controle do conjunto",
+      "arquivo": "fontes/inter/Inter[opsz,wght].ttf",
+      "instancia": { "wght": 900, "opsz": 32 },
+      "designer": "Rasmus Andersson",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/rsms/inter",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/"
+    },
+    {
+      "id": "F8",
+      "familia": "Alfa Slab One",
+      "natureza": "serifada mecanica pesada, natureza totalmente outra",
+      "arquivo": "fontes/alfaslabone/AlfaSlabOne-Regular.ttf",
+      "instancia": null,
+      "designer": "JM Sole",
+      "licenca": "SIL OFL 1.1",
+      "repositorio": "https://github.com/Alfa-Slab/AlfaSlabOne",
+      "origem": "https://raw.githubusercontent.com/google/fonts/main/ofl/alfaslabone/"
+    }
+  ]
+}

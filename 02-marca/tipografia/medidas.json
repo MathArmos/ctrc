@@ -1,0 +1,487 @@
+{
+  "unidade": "altura de caixa alta = 1000, a mesma do item 6 (marca-atual-medidas.json)",
+  "tolerancia": 3,
+  "familias": [
+    {
+      "id": "F1",
+      "familia": "Anton",
+      "natureza": "display ultra pesada, caixa alta larga, uma espessura so",
+      "instancia": null,
+      "caixaAltaMedida": 1760,
+      "caixaAltaDeclarada": 1760,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 2048,
+      "escala": 0.56818,
+      "larguraTotal": 2059.66,
+      "alturaTotal": 1018.18,
+      "razao": 2.023,
+      "caixa": {
+        "minX": 36.36,
+        "minY": -9.09,
+        "maxX": 2096.02,
+        "maxY": 1009.09
+      },
+      "contorno": {
+        "fracaoReta": 66.1,
+        "fracaoCurva": 33.9,
+        "segmentosRetos": 34
+      },
+      "angulo": {
+        "horizontal": 24.3,
+        "vertical": 75.7,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 0,
+        "naMalhaD07": 24.3
+      },
+      "obliquas": [],
+      "obliquaPrincipal": null,
+      "svg": "svg/CTRC-F1.svg",
+      "tintaPct": 66.4,
+      "a16px": {
+        "largura": 33,
+        "altura": 16
+      }
+    },
+    {
+      "id": "F2",
+      "familia": "Oswald",
+      "natureza": "condensada de sinalizacao, a referencia do setor",
+      "instancia": {
+        "wght": 700
+      },
+      "caixaAltaMedida": 810,
+      "caixaAltaDeclarada": 810,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 1000,
+      "escala": 1.23457,
+      "larguraTotal": 2572.84,
+      "alturaTotal": 1028.4,
+      "razao": 2.502,
+      "caixa": {
+        "minX": 60.49,
+        "minY": -13.58,
+        "maxX": 2633.33,
+        "maxY": 1014.81
+      },
+      "contorno": {
+        "fracaoReta": 60.5,
+        "fracaoCurva": 39.5,
+        "segmentosRetos": 35
+      },
+      "angulo": {
+        "horizontal": 28.5,
+        "vertical": 61.8,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 9.7,
+        "naMalhaD07": 28.5
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 106,
+          "daVertical": 16,
+          "pctDaRetaTotal": 5.1,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 3
+        },
+        {
+          "anguloGraus": 104,
+          "daVertical": 14,
+          "pctDaRetaTotal": 4.6,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 5
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 106,
+        "daVertical": 16,
+        "pctDaRetaTotal": 5.1,
+        "familiaMaisProxima": "obliqua19",
+        "alvo": 109,
+        "distanciaAoAlvo": 3
+      },
+      "svg": "svg/CTRC-F2.svg",
+      "tintaPct": 57,
+      "a16px": {
+        "largura": 41,
+        "altura": 16
+      }
+    },
+    {
+      "id": "F3",
+      "familia": "Archivo Black",
+      "natureza": "grotesca industrial pesada, larga",
+      "instancia": null,
+      "caixaAltaMedida": 688,
+      "caixaAltaDeclarada": 688,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 1000,
+      "escala": 1.45349,
+      "larguraTotal": 4311.05,
+      "alturaTotal": 1034.88,
+      "razao": 4.166,
+      "caixa": {
+        "minX": 65.41,
+        "minY": -17.44,
+        "maxX": 4376.45,
+        "maxY": 1017.44
+      },
+      "contorno": {
+        "fracaoReta": 49.1,
+        "fracaoCurva": 50.9,
+        "segmentosRetos": 25
+      },
+      "angulo": {
+        "horizontal": 52,
+        "vertical": 38.9,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 9.2,
+        "naMalhaD07": 52
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 118,
+          "daVertical": 28,
+          "pctDaRetaTotal": 4.9,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 9
+        },
+        {
+          "anguloGraus": 116,
+          "daVertical": 26,
+          "pctDaRetaTotal": 4.2,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 7
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 118,
+        "daVertical": 28,
+        "pctDaRetaTotal": 4.9,
+        "familiaMaisProxima": "obliqua19",
+        "alvo": 109,
+        "distanciaAoAlvo": 9
+      },
+      "svg": "svg/CTRC-F3.svg",
+      "tintaPct": 56.4,
+      "a16px": {
+        "largura": 69,
+        "altura": 17
+      }
+    },
+    {
+      "id": "F4",
+      "familia": "Big Shoulders Display",
+      "natureza": "condensada extrema de sinalizacao, terminais cortados em angulo",
+      "instancia": {
+        "wght": 800
+      },
+      "caixaAltaMedida": 1600,
+      "caixaAltaDeclarada": 1600,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 2000,
+      "escala": 0.625,
+      "larguraTotal": 2087.7,
+      "alturaTotal": 1022.5,
+      "razao": 2.042,
+      "caixa": {
+        "minX": 46.88,
+        "minY": -11.25,
+        "maxX": 2134.57,
+        "maxY": 1011.25
+      },
+      "contorno": {
+        "fracaoReta": 43,
+        "fracaoCurva": 57,
+        "segmentosRetos": 23
+      },
+      "angulo": {
+        "horizontal": 33.9,
+        "vertical": 55,
+        "diagonal51": 0,
+        "obliqua19": 5.8,
+        "fora": 5.3,
+        "naMalhaD07": 39.7
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 107,
+          "daVertical": 17,
+          "pctDaRetaTotal": 5.8,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 2
+        },
+        {
+          "anguloGraus": 105,
+          "daVertical": 15,
+          "pctDaRetaTotal": 5.3,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 4
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 107,
+        "daVertical": 17,
+        "pctDaRetaTotal": 5.8,
+        "familiaMaisProxima": "obliqua19",
+        "alvo": 109,
+        "distanciaAoAlvo": 2
+      },
+      "svg": "svg/CTRC-F4.svg",
+      "tintaPct": 53.7,
+      "a16px": {
+        "largura": 33,
+        "altura": 16
+      }
+    },
+    {
+      "id": "F5",
+      "familia": "Chakra Petch",
+      "natureza": "chanfrada: cantos cortados em angulo, tecnologica",
+      "instancia": null,
+      "caixaAltaMedida": 700,
+      "caixaAltaDeclarada": 700,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 1000,
+      "escala": 1.42857,
+      "larguraTotal": 3548.57,
+      "alturaTotal": 1000,
+      "razao": 3.549,
+      "caixa": {
+        "minX": 78.57,
+        "minY": 0,
+        "maxX": 3627.14,
+        "maxY": 1000
+      },
+      "contorno": {
+        "fracaoReta": 100,
+        "fracaoCurva": 0,
+        "segmentosRetos": 67
+      },
+      "angulo": {
+        "horizontal": 39.3,
+        "vertical": 42.7,
+        "diagonal51": 0.7,
+        "obliqua19": 0,
+        "fora": 17.3,
+        "naMalhaD07": 40
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 135,
+          "daVertical": 45,
+          "pctDaRetaTotal": 8.4,
+          "familiaMaisProxima": "diagonal51",
+          "alvo": 129,
+          "distanciaAoAlvo": 6
+        },
+        {
+          "anguloGraus": 45,
+          "daVertical": 45,
+          "pctDaRetaTotal": 8,
+          "familiaMaisProxima": "diagonal51",
+          "alvo": 51,
+          "distanciaAoAlvo": 6
+        },
+        {
+          "anguloGraus": 132,
+          "daVertical": 42,
+          "pctDaRetaTotal": 1.5,
+          "familiaMaisProxima": "diagonal51",
+          "alvo": 129,
+          "distanciaAoAlvo": 3
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 135,
+        "daVertical": 45,
+        "pctDaRetaTotal": 8.4,
+        "familiaMaisProxima": "diagonal51",
+        "alvo": 129,
+        "distanciaAoAlvo": 6
+      },
+      "svg": "svg/CTRC-F5.svg",
+      "tintaPct": 45.7,
+      "a16px": {
+        "largura": 57,
+        "altura": 16
+      }
+    },
+    {
+      "id": "F6",
+      "familia": "Teko",
+      "natureza": "condensada esportiva, cantos duros, sem chanfro",
+      "instancia": {
+        "wght": 700
+      },
+      "caixaAltaMedida": 642,
+      "caixaAltaDeclarada": 622,
+      "divergenciaCaixaAlta": 20,
+      "unitsPerEm": 1000,
+      "escala": 1.55763,
+      "larguraTotal": 2922.12,
+      "alturaTotal": 1000,
+      "razao": 2.922,
+      "caixa": {
+        "minX": 54.52,
+        "minY": 0,
+        "maxX": 2976.64,
+        "maxY": 1000
+      },
+      "contorno": {
+        "fracaoReta": 81.6,
+        "fracaoCurva": 18.4,
+        "segmentosRetos": 64
+      },
+      "angulo": {
+        "horizontal": 37.4,
+        "vertical": 56.9,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 5.7,
+        "naMalhaD07": 37.4
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 117,
+          "daVertical": 27,
+          "pctDaRetaTotal": 2.9,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 8
+        },
+        {
+          "anguloGraus": 114,
+          "daVertical": 24,
+          "pctDaRetaTotal": 2.8,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 5
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 117,
+        "daVertical": 27,
+        "pctDaRetaTotal": 2.9,
+        "familiaMaisProxima": "obliqua19",
+        "alvo": 109,
+        "distanciaAoAlvo": 8
+      },
+      "svg": "svg/CTRC-F6.svg",
+      "tintaPct": 65.9,
+      "a16px": {
+        "largura": 47,
+        "altura": 16
+      }
+    },
+    {
+      "id": "F7",
+      "familia": "Inter",
+      "natureza": "neutra geometrica, controle do conjunto",
+      "instancia": {
+        "wght": 900,
+        "opsz": 32
+      },
+      "caixaAltaMedida": 1490,
+      "caixaAltaDeclarada": 1490,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 2048,
+      "escala": 0.67114,
+      "larguraTotal": 3769.8,
+      "alturaTotal": 1032.21,
+      "razao": 3.652,
+      "caixa": {
+        "minX": 26.85,
+        "minY": -16.11,
+        "maxX": 3796.64,
+        "maxY": 1016.11
+      },
+      "contorno": {
+        "fracaoReta": 49.1,
+        "fracaoCurva": 50.9,
+        "segmentosRetos": 24
+      },
+      "angulo": {
+        "horizontal": 48.4,
+        "vertical": 41.1,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 10.4,
+        "naMalhaD07": 48.4
+      },
+      "obliquas": [
+        {
+          "anguloGraus": 116,
+          "daVertical": 26,
+          "pctDaRetaTotal": 10.4,
+          "familiaMaisProxima": "obliqua19",
+          "alvo": 109,
+          "distanciaAoAlvo": 7
+        }
+      ],
+      "obliquaPrincipal": {
+        "anguloGraus": 116,
+        "daVertical": 26,
+        "pctDaRetaTotal": 10.4,
+        "familiaMaisProxima": "obliqua19",
+        "alvo": 109,
+        "distanciaAoAlvo": 7
+      },
+      "svg": "svg/CTRC-F7.svg",
+      "tintaPct": 55.3,
+      "a16px": {
+        "largura": 60,
+        "altura": 17
+      }
+    },
+    {
+      "id": "F8",
+      "familia": "Alfa Slab One",
+      "natureza": "serifada mecanica pesada, natureza totalmente outra",
+      "instancia": null,
+      "caixaAltaMedida": 778,
+      "caixaAltaDeclarada": 778,
+      "divergenciaCaixaAlta": 0,
+      "unitsPerEm": 1000,
+      "escala": 1.28535,
+      "larguraTotal": 3845.76,
+      "alturaTotal": 1035.99,
+      "razao": 3.712,
+      "caixa": {
+        "minX": 17.99,
+        "minY": -17.99,
+        "maxX": 3863.75,
+        "maxY": 1017.99
+      },
+      "contorno": {
+        "fracaoReta": 62.4,
+        "fracaoCurva": 37.6,
+        "segmentosRetos": 50
+      },
+      "angulo": {
+        "horizontal": 43.1,
+        "vertical": 56.8,
+        "diagonal51": 0,
+        "obliqua19": 0,
+        "fora": 0.1,
+        "naMalhaD07": 43.1
+      },
+      "obliquas": [],
+      "obliquaPrincipal": null,
+      "svg": "svg/CTRC-F8.svg",
+      "tintaPct": 67.3,
+      "a16px": {
+        "largura": 62,
+        "altura": 17
+      }
+    }
+  ]
+}

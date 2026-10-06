@@ -51,7 +51,7 @@ por último. O driver assume o desenho no Figma, e a medição vira régua do qu
 
 - [ ] 27. Paleta: HEX, RGB, CMYK, Pantone `OBR`
 - [ ] 28. Teste de contraste da paleta
-- [ ] 29. Tipografia de apoio, licença OFL `OBR` · 🔴 **VIRA O PRIMEIRO PASSO DA MARCA** (D-09): 6 a 8 famílias candidatas, CTRC composto em cada uma, e o driver escolhe
+- [x] 29. Tipografia de apoio, licença OFL `OBR` · 🟢 **AS OITO CANDIDATAS ESTÃO COMPOSTAS E MEDIDAS** (02-marca/tipografia/, resultado.md), de naturezas diferentes entre si, cada licença conferida no arquivo e registrada em logs/licencas.md. 🔴 **E ELAS TRAZEM A EVIDÊNCIA DA P-09**: a perna do R da Big Shoulders cai a **2°** dos 19° herdados e a da Oswald a **3°**, enquanto **Anton e Alfa Slab One não têm uma única aresta oblíqua** e matam a malha por construção. ⚠️ **Falta só a escolha da família, que é do driver**
 - [ ] 30. Tipografia de números (carga, recorde)
 - [ ] 31. Grafismo auxiliar derivado do símbolo
 - [ ] 32. Padronagem
