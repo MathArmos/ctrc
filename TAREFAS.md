@@ -32,12 +32,12 @@ A fila passa a ser **29 → 14 → 13**: a tipografia primeiro, o lettering depo
 por último. O driver assume o desenho no Figma, e a medição vira régua do que ele desenhar.
 
 - [x] 12. Exploração do símbolo, 5 a 8 rotas em preto e branco `FORA` (7 rotas em 02-marca/exploracao-simbolo/, resultado.md) · 🔴 **RECUSADA EM BLOCO em 2026-10-06**: nenhuma falhou em medida, o aprovador recusou pelo olho (*"têm cara de gerado"*). Vira **acervo e matéria-prima do kit**, não origem do ativo
-- [ ] 13. Símbolo escolhido, vetorizado · 🔴 **DEPOIS do 29 e do 14**, e **derivado da letra** (D-09). As 11 variantes de refino ficam em 02-marca/simbolo/
-- [ ] 14. Lettering CTRC · 🔴 **SOBE NA FILA**: vem antes do símbolo (D-09)
-- [ ] 15. Assinatura principal `OBR`
-- [ ] 16. Versão horizontal `OBR`
-- [ ] 17. Versão vertical `OBR`
-- [ ] 18. Símbolo isolado para avatar
+- [~] 13. Símbolo escolhido, vetorizado · 🟡 **QUATRO DERIVAÇÕES CONSTRUÍDAS E MEDIDAS** em 02-marca/simbolo-letra/, todas tiradas da letra do item 14 (D-09), com a régua do item 12 rodada sem ser reescrita. 🔴 **A FOLHA ACHOU O QUE O NÚMERO NÃO VÊ: a assinatura gagueja.** A palavra já começa com C e com T, então um símbolo CT ao lado dela lê **"CT CTRC"**. A S2 e a S3 ganham em razão e em redução e perdem nisso. ⚠️ **Falta a escolha do driver**, e a recomendação é a S1 (o C sozinho), com a ressalva de que ela é estreita e precisa ser alargada para o tamanho pequeno. As 11 variantes antigas ficam em 02-marca/simbolo/
+- [x] 14. Lettering CTRC · 🟢 **FEITO** em 02-marca/lettering/, matriz Big Shoulders Display 800 em curvas e modificada (D-03). Três modificações, todas saindo da malha: a perna do R a **19° da vertical** (e a largura dela cai em cima da espessura de haste da própria fonte, 161,2, sem que isso fosse planejado), os terminais do C cortados a 19° e **paralelos** (espelhados virariam chevron, que a D-07 mata), e os vãos redesenhados. A oblíqua foi de **5,8% para 24,7%** do contorno reto e **nada sobrou fora da malha**. Vértice mais agudo **71°**, que é 90−19 e é a malha garantindo sozinha que não há ponta aguda
+- [~] 15. Assinatura principal `OBR` · 🟡 **MONTADA** em 02-marca/assinatura/, com a unidade do sistema sendo a espessura de haste medida (u = 161,2). **Presa à escolha do símbolo (item 13)**: trocar `SIMBOLO` refaz as três assinaturas com um comando
+- [~] 16. Versão horizontal `OBR` · montada, vão de 1u · presa ao item 13
+- [~] 17. Versão vertical `OBR` · montada, vão de 0,75u · presa ao item 13
+- [~] 18. Símbolo isolado para avatar · gerado · 🔴 **a S1 recomendada é estreita (razão 0,466) e precisa ser alargada** antes de servir a 40 px
 - [ ] 19. Versão colorida `OBR`
 - [ ] 20. Versão monocromática `OBR`
 - [ ] 21. Versão positiva `OBR`
