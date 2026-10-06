@@ -49,9 +49,9 @@ redução e em distância do chevron, e perdem na única coisa que a assinatura 
 15) precisa fazer. ⚠️ **Era um risco previsto**: o resultado do item 12 já escrevia que
 *"a D pode ficar redundante com ela [a palavra]"*, e aqui ele se cumpriu com a letra real.
 
-## 3. Recomendação
+## 3. Escolha do driver, 2026-10-06: **S1, o C sozinho**
 
-🟢 **S1, o C sozinho**, com uma ressalva que precisa ser resolvida antes de fechar.
+🟢 **S1, o C sozinho**, com uma ressalva que foi resolvida logo depois e está na seção 5.
 
 **Por que a S1:**
 1. é a única que **não gagueja** na assinatura, e a assinatura é o item 15, o entregável principal;
@@ -78,3 +78,47 @@ portanto a cara da assinatura inteira.
 ⚠️ **Nenhuma busca figurativa no INPI** (P-03, pePI fora do ar).
 ⚠️ **O símbolo é trocável por um comando**: `SIMBOLO` em `../assinatura/assinatura.mjs`. Trocar
 o valor refaz as três assinaturas e o símbolo isolado.
+
+## 5. O alargamento do C, e o que ele custou
+
+🔴 **A ressalva da S1 era real e foi medida: como letra, o C tem razão 0,466 e reprova a 16 px**
+(fidelidade 0,682 contra o piso de 0,85, que é o **RNF-02**). Na folha, o contraforma vira uma
+fresta. Símbolo derivado de letra tem direito a proporção própria, e foi isso que se usou.
+
+❌ **Alargar escalando em x estava fora, e por dois motivos, não um.** O primeiro é peso:
+escala em x engrossaria a haste esquerda, que é vertical, e deixaria os braços de cima e de
+baixo como estão, porque a espessura deles é vertical. O C sairia com dois pesos. 🔴 **O
+segundo é pior e é silencioso: escala não preserva ângulo**, então os dois cortes de 19° do
+item 14 sairiam com outro ângulo e a malha cairia sem que nada reclamasse.
+
+✅ **O que serve é TRANSLADAR.** O C tem dois ápices de tangente horizontal, em cima e embaixo,
+no mesmo x. Eles partem o contorno em metade esquerda e metade direita. Afastando a direita e
+tapando a fenda com uma reta horizontal em cada ápice, o C alarga e **nada mais muda**.
+📌 **Conferido, e não presumido**: os dois cortes continuam a **71°** com comprimento **164,5 e
+401,8**, idênticos antes e depois, e as duas barras inseridas medem exatamente o delta.
+
+⚠️ **Uma premissa minha estourou na guarda, e foi ela que impediu um C torto.** Eu havia
+assumido que o ápice de baixo era o ponto onde o contorno começa. Não é: depois do chanfro do
+item 14, `chanfrar` reconstrói o contorno a partir do ponto de corte, então `inicio` passa a
+ser um ponto qualquer do braço. A guarda acusou ápices em x=287,5 e x=339,2 e parou. Os dois
+ápices passaram a ser **achados varrendo**.
+
+### A busca, e o mínimo que passa
+
+| razão | delta | tinta | 16 px | chevron |
+|---|---|---|---|---|
+| 0,466 | 0 | 24,2% | **0,682** ❌ | 0,360 |
+| **0,580** | **116,4** | 35,6% | **0,853** ✅ | 0,438 |
+| 0,660 | 198,2 | 43,5% | 0,891 | 0,462 |
+| 0,740 | 280,0 | **51,6%** ❌ | 0,918 | 0,466 |
+
+🔴 **ALARGAR TEM DOIS PREÇOS, E OS DOIS SOBEM JUNTOS.** A tinta cresce, o que é dívida em
+bordado (item 36); e o símbolo **se aproxima do chevron**, que é a forma que a **D-07** manda
+morrer: de 0,360 a 0,466 contra um piso de reprova em 0,50. 📌 **É por isso que o delta
+adotado é o mínimo que passa, e não o que mede melhor em redução**: cada unidade a mais compra
+fidelidade pagando com distância da marca velha. Mesmo critério das buscas de véu deste
+projeto, em que o que entra é o mínimo que passa com margem.
+
+⚠️ **O C do símbolo ficou mais largo que o C da palavra**, e isso é diferença declarada, não
+descuido: na assinatura ele lê como marca, e não como a primeira letra repetida. Conferido na
+folha, nas três larguras.

@@ -1,0 +1,46 @@
+{
+  "item": 23,
+  "unidade": "altura de caixa alta em px",
+  "tabela": [
+    {
+      "peca": "assinatura-horizontal",
+      "razao": 2.719,
+      "48px": 0.924,
+      "48px_caixa": "133x49",
+      "24px": 0.872,
+      "24px_caixa": "67x25",
+      "16px": 0.815,
+      "16px_caixa": "44x16"
+    },
+    {
+      "peca": "assinatura-vertical",
+      "razao": 0.935,
+      "48px": 0.929,
+      "48px_caixa": "97x104",
+      "24px": 0.869,
+      "24px_caixa": "49x52",
+      "16px": 0.8,
+      "16px_caixa": "32x35"
+    },
+    {
+      "peca": "simbolo",
+      "razao": 0.58,
+      "48px": 0.948,
+      "48px_caixa": "28x49",
+      "24px": 0.874,
+      "24px_caixa": "14x25",
+      "16px": 0.86,
+      "16px_caixa": "9x16"
+    },
+    {
+      "peca": "lettering",
+      "razao": 1.981,
+      "48px": 0.918,
+      "48px_caixa": "97x49",
+      "24px": 0.862,
+      "24px_caixa": "49x25",
+      "16px": 0.81,
+      "16px_caixa": "32x16"
+    }
+  ]
+}

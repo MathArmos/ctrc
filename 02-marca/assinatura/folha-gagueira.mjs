@@ -42,5 +42,5 @@ for (const [nome, S] of Object.entries(SIMB)) {
 }
 const W=1100, H=y+20;
 cam.push({ input: Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}">${txt.join('')}</svg>`), left:0, top:0 });
-await sharp({create:{width:W,height:H,channels:3,background:'#fff'}}).composite(cam).png().toFile('verificacao/folha-02-gagueira.png');
-console.log('verificacao/folha-02-gagueira.png', W, H);
+await sharp({create:{width:W,height:H,channels:3,background:'#fff'}}).composite(cam).png().toFile('verificacao/folha-04-gagueira.png');
+console.log('verificacao/folha-04-gagueira.png', W, H);

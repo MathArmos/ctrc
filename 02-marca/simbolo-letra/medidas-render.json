@@ -1,5 +1,53 @@
 [
   {
+    "id": "C47",
+    "razao": 0.466,
+    "tinta": 24.2,
+    "fidelidade": {
+      "16": 0.682,
+      "24": 0.866,
+      "48": 0.9
+    },
+    "iouChevron": 0.36,
+    "iouMonograma": 0.107
+  },
+  {
+    "id": "C58",
+    "razao": 0.58,
+    "tinta": 35.6,
+    "fidelidade": {
+      "16": 0.853,
+      "24": 0.903,
+      "48": 0.955
+    },
+    "iouChevron": 0.438,
+    "iouMonograma": 0.156
+  },
+  {
+    "id": "C66",
+    "razao": 0.66,
+    "tinta": 43.5,
+    "fidelidade": {
+      "16": 0.891,
+      "24": 0.912,
+      "48": 0.958
+    },
+    "iouChevron": 0.462,
+    "iouMonograma": 0.21
+  },
+  {
+    "id": "C74",
+    "razao": 0.74,
+    "tinta": 51.6,
+    "fidelidade": {
+      "16": 0.918,
+      "24": 0.929,
+      "48": 0.966
+    },
+    "iouChevron": 0.466,
+    "iouMonograma": 0.257
+  },
+  {
     "id": "S1",
     "razao": 0.466,
     "tinta": 24.2,

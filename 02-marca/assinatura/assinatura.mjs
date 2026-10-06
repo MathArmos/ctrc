@@ -10,33 +10,17 @@
 // Rodar: node assinatura.mjs
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { letraC, letraT, palavra } from '../lettering/lettering.mjs';
-import { caixa, mover, paraSVG, chanfrar, reta } from '../lettering/contorno.mjs';
+import { palavra } from '../lettering/lettering.mjs';
+import { caixa, mover, paraSVG } from '../lettering/contorno.mjs';
 
 export const U = 161.2; // espessura de haste, medida no item 14
-export const SIMBOLO = 'S3';
-
-// --- o simbolo escolhido, reconstruido a partir das mesmas letras ---
-function Tcortado(dxT, corteX) {
-  const T = mover(letraT(), dxT);
-  const tentativa = reta([corteX, 500], 90);
-  const graus = tentativa.s([corteX - 10, 500]) > 0 ? 90 : -90;
-  return T.map((c) => chanfrar(c, reta([corteX, 500], graus), [corteX - 80, 70]));
-}
-
-function simbolo(id) {
-  const C = letraC();
-  const cxC = caixa(C);
-  const cxT = caixa(letraT());
-  if (id === 'S1') return C;
-  if (id === 'S2') return [...C, ...mover(letraT(), cxC.maxX + 34 - cxT.minX)];
-  if (id === 'S3') return [...C, ...Tcortado(529.7 - 159.4, 470)];
-  if (id === 'S4') return [...C, ...Tcortado(470 - 159.4, 500)];
-  throw new Error(`simbolo ${id} nao existe`);
-}
+// 🔴 O SIMBOLO VEM DE UMA FONTE UNICA, `simbolo-letra/simbolo.mjs`, e nunca e remontado aqui.
+// Antes desta linha existia uma copia da construcao de cada derivacao dentro deste arquivo, e
+// duas copias da mesma geometria sao duas chances de uma divergir.
+import { simboloFinal, DELTA } from '../simbolo-letra/simbolo.mjs';
 
 // --- as pecas, normalizadas pela linha de base da caixa alta ---
-const S = simbolo(SIMBOLO);
+const S = simboloFinal();
 const cxS = caixa(S);
 const P = palavra().pecas.flatMap((p) => p.cs);
 const cxP = caixa(P);
@@ -68,7 +52,7 @@ const VAO_V = U * 0.75;
 }
 
 // --- 18 · o simbolo isolado ---
-escreve('simbolo', S, `item 18 · simbolo isolado (${SIMBOLO})`);
+escreve('simbolo', S, `item 18 · simbolo isolado · o C alargado em ${DELTA}`);
 
 // --- 15 · a principal e a horizontal ---
 {
@@ -81,7 +65,7 @@ function escreve(nome, conts, nota) {
   const n = mover(conts, -cx.minX, -cx.minY);
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${cx.largura.toFixed(2)} ${cx.altura.toFixed(2)}" width="${Math.round(cx.largura)}" height="${Math.round(cx.altura)}">
 <!-- CTRC · ${nota}
-     simbolo ${SIMBOLO} e lettering do item 14 · matriz Big Shoulders Display wght 800, SIL OFL 1.1
+     simbolo: o C alargado em ${DELTA} (item 13) e lettering do item 14 · matriz Big Shoulders Display wght 800, SIL OFL 1.1
      unidade do sistema u = ${U} (espessura de haste, medida) -->
 <path d="${paraSVG(n)}" fill="#000"/>
 </svg>
