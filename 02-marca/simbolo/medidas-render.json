@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A-1",
+    "razao": 1.23,
+    "tinta": 44.2,
+    "fidelidade": {
+      "16": 0.896,
+      "24": 0.882,
+      "48": 0.969
+    },
+    "iouChevron": 0.39,
+    "iouMonograma": 0.29
+  },
+  {
+    "id": "A-2",
+    "razao": 1.202,
+    "tinta": 43.1,
+    "fidelidade": {
+      "16": 0.873,
+      "24": 0.954,
+      "48": 0.975
+    },
+    "iouChevron": 0.397,
+    "iouMonograma": 0.251
+  },
+  {
+    "id": "A-3",
+    "razao": 1.171,
+    "tinta": 39.8,
+    "fidelidade": {
+      "16": 0.885,
+      "24": 0.882,
+      "48": 0.961
+    },
+    "iouChevron": 0.36,
+    "iouMonograma": 0.194
+  },
+  {
+    "id": "B-1",
+    "razao": 1.42,
+    "tinta": 26.9,
+    "fidelidade": {
+      "16": 0.844,
+      "24": 0.855,
+      "48": 0.906
+    },
+    "iouChevron": 0.259,
+    "iouMonograma": 0.244
+  },
+  {
+    "id": "B-2",
+    "razao": 1.42,
+    "tinta": 30.5,
+    "fidelidade": {
+      "16": 0.836,
+      "24": 0.855,
+      "48": 0.93
+    },
+    "iouChevron": 0.272,
+    "iouMonograma": 0.291
+  },
+  {
+    "id": "B-3",
+    "razao": 1.566,
+    "tinta": 18.6,
+    "fidelidade": {
+      "16": 0.655,
+      "24": 0.773,
+      "48": 0.877
+    },
+    "iouChevron": 0.199,
+    "iouMonograma": 0.227
+  },
+  {
+    "id": "D-1",
+    "razao": 1.35,
+    "tinta": 43.3,
+    "fidelidade": {
+      "16": 0.872,
+      "24": 0.866,
+      "48": 0.947
+    },
+    "iouChevron": 0.332,
+    "iouMonograma": 0.332
+  },
+  {
+    "id": "D-2",
+    "razao": 1.361,
+    "tinta": 43.2,
+    "fidelidade": {
+      "16": 0.838,
+      "24": 0.88,
+      "48": 0.934
+    },
+    "iouChevron": 0.336,
+    "iouMonograma": 0.337
+  },
+  {
+    "id": "D-3",
+    "razao": 1.337,
+    "tinta": 39.9,
+    "fidelidade": {
+      "16": 0.816,
+      "24": 0.862,
+      "48": 0.949
+    },
+    "iouChevron": 0.306,
+    "iouMonograma": 0.3
+  },
+  {
+    "id": "D-4",
+    "razao": 1.337,
+    "tinta": 38.8,
+    "fidelidade": {
+      "16": 0.809,
+      "24": 0.86,
+      "48": 0.949
+    },
+    "iouChevron": 0.294,
+    "iouMonograma": 0.286
+  },
+  {
+    "id": "D-5",
+    "razao": 1.337,
+    "tinta": 38.7,
+    "fidelidade": {
+      "16": 0.806,
+      "24": 0.862,
+      "48": 0.949
+    },
+    "iouChevron": 0.274,
+    "iouMonograma": 0.289
+  }
+]

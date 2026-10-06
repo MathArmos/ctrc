@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1171.674 1000" width="1171.674" height="1000" role="img" aria-label="CTRC, rota A-3">
+  <title>CTRC · item 12 · rota A-3: C aberto, leve</title>
+  <desc>Mesma compensacao da A-2, com o conjunto 15 por cento mais leve.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":255,"pesoLeve":212,"xTerminal":1000,"garra":1}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1000 0L1171.674 212L541.023 212L342.691 788L1171.674 788L1000 1000L0 1000L344.328 0Z"/>
+</svg>

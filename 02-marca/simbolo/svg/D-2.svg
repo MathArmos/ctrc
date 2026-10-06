@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1362.201 1000" width="1362.201" height="1000" role="img" aria-label="CTRC, rota D-2">
+  <title>CTRC · item 12 · rota D-2: CT travado, T cheio</title>
+  <desc>O T preenche a boca do C, com folga constante.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":260,"pesoLeve":225,"xTerminal":1180,"garra":1,"tTopo":300,"tEspBarra":165,"tEsq":580,"tBarra":580,"tHaste":200,"tBase":740}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1180 0L1362.201 225L541.835 225L352.455 775L1362.201 775L1180 1000L0 1000L344.328 0Z M1160 300L1026.386 465L842.148 465L747.458 740L535.933 740L630.624 465L446.386 465L580 300Z"/>
+</svg>

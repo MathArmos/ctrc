@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1337.908 1000" width="1337.908" height="1000" role="img" aria-label="CTRC, rota D-4">
+  <title>CTRC · item 12 · rota D-4: CT travado, folga de 1 px</title>
+  <desc>Folga de 90 unidades em volta do T, que e o minimo para o vao sobreviver com 1 px inteiro a 16 px de largura. Tudo o mais encolhe para pagar essa folga.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":225,"pesoLeve":195,"xTerminal":1180,"garra":1,"tTopo":285,"tEspBarra":130,"tEsq":585,"tBarra":560,"tHaste":170,"tBase":715}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1180 0L1337.908 195L515.148 195L305.109 805L1337.908 805L1180 1000L0 1000L344.328 0Z M1145 285L1039.728 415L849.626 415L746.328 715L566.532 715L669.83 415L479.728 415L585 285Z"/>
+</svg>

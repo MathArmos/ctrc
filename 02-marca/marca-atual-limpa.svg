@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1787.703 1000" width="1787.703" height="1000" role="img" aria-label="Monograma atual do CTRC">
+  <title>CTRC · monograma atual, redesenhado em vetor limpo</title>
+  <desc>Redesenho de geometria limpa da marca em uso (item 6). Nao e a marca nova.
+Angulos: horizontais 0 graus, haste a -71 graus, diagonais a 51 graus.
+Pesos: 252.37 (braco, perna, bracos do chevron) e 275.21 (haste).
+Medidas e procedimento em 02-marca/marca-atual-medicoes.md.</desc>
+  <path fill="currentColor" fill-rule="nonzero" d="M344.328 0L1199.214 0L994.849 252.37L548.497 252.37L467.054 488.9L788.19 488.9L1202.071 1000L877.331 1000L465.979 492.022L291.068 1000L0 1000Z M1445.179 0L1769.919 0L1373.918 489.019L1787.703 1000L1462.963 1000L1049.179 489.019Z"/>
+</svg>

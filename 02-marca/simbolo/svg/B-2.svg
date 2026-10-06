@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1420 1000" width="1420" height="1000" role="img" aria-label="CTRC, rota B-2">
+  <title>CTRC · item 12 · rota B-2: Escada, tres degraus</title>
+  <desc>Tres barras mais grossas. Tres nao conta unidade nenhuma, o que tira a armadilha de a marca mentir quando abrir a quinta.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"barras":3,"altura":250,"vao":125,"xPonta":1420,"passo":330}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1420 0L1217.554 250L258.246 250L344.328 0Z M1090 375L887.554 625L129.123 625L215.205 375Z M760 750L557.554 1000L0 1000L86.082 750Z"/>
+</svg>

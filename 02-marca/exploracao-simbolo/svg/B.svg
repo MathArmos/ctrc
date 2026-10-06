@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1420 1000" width="1420" height="1000" role="img" aria-label="CTRC, rota B">
+  <title>CTRC · item 12 · rota B: Escada</title>
+  <desc>Quatro barras alinhadas a esquerda por uma obliqua, com as pontas avancando a cada degrau.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"barras":4,"altura":175,"vao":100,"xPonta":1420,"passo":265}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1420 0L1278.288 175L284.07 175L344.328 0Z M1155 275L1013.288 450L189.38 450L249.638 275Z M890 550L748.288 725L94.69 725L154.947 550Z M625 825L483.288 1000L0 1000L60.257 825Z"/>
+</svg>

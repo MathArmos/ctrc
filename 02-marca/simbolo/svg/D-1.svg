@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1352.446 1000" width="1352.446" height="1000" role="img" aria-label="CTRC, rota D-1">
+  <title>CTRC · item 12 · rota D-1: CT travado, T pequeno</title>
+  <desc>O T ocupa pouco da boca do C.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":250,"pesoLeve":250,"xTerminal":1150,"garra":1,"tTopo":300,"tEspBarra":150,"tEsq":620,"tBarra":470,"tHaste":185,"tBase":700}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1150 0L1352.446 250L522.651 250L350.487 750L1352.446 750L1150 1000L0 1000L344.328 0Z M1090 300L968.532 450L831.362 450L745.28 700L549.621 700L635.702 450L498.532 450L620 300Z"/>
+</svg>

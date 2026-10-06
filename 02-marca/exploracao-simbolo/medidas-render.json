@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A",
+    "razao": 1.23,
+    "tinta": 44.2,
+    "fidelidade": {
+      "16": 0.896,
+      "24": 0.882,
+      "48": 0.969
+    },
+    "iouChevron": 0.39,
+    "iouMonograma": 0.29
+  },
+  {
+    "id": "A2",
+    "razao": 1,
+    "tinta": 53.6,
+    "fidelidade": {
+      "16": 0.914,
+      "24": 0.952,
+      "48": 0.972
+    },
+    "iouChevron": 0.512,
+    "iouMonograma": 0.167
+  },
+  {
+    "id": "B",
+    "razao": 1.42,
+    "tinta": 26.9,
+    "fidelidade": {
+      "16": 0.844,
+      "24": 0.855,
+      "48": 0.906
+    },
+    "iouChevron": 0.259,
+    "iouMonograma": 0.244
+  },
+  {
+    "id": "C",
+    "razao": 1.23,
+    "tinta": 42.6,
+    "fidelidade": {
+      "16": 0.868,
+      "24": 0.864,
+      "48": 0.958
+    },
+    "iouChevron": 0.382,
+    "iouMonograma": 0.279
+  },
+  {
+    "id": "D",
+    "razao": 1.35,
+    "tinta": 43.3,
+    "fidelidade": {
+      "16": 0.872,
+      "24": 0.866,
+      "48": 0.947
+    },
+    "iouChevron": 0.332,
+    "iouMonograma": 0.332
+  },
+  {
+    "id": "E",
+    "razao": 0.868,
+    "tinta": 33.1,
+    "fidelidade": {
+      "16": 0.896,
+      "24": 0.917,
+      "48": 0.957
+    },
+    "iouChevron": 0.366,
+    "iouMonograma": 0.2
+  },
+  {
+    "id": "F",
+    "razao": 2.643,
+    "tinta": 14.6,
+    "fidelidade": {
+      "16": 0.712,
+      "24": 0.784,
+      "48": 0.906
+    },
+    "iouChevron": 0.083,
+    "iouMonograma": 0.214
+  },
+  {
+    "id": "G",
+    "razao": 0.897,
+    "tinta": 44.5,
+    "fidelidade": {
+      "16": 0.885,
+      "24": 0.925,
+      "48": 0.96
+    },
+    "iouChevron": 0.37,
+    "iouMonograma": 0.294
+  }
+]

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896.906 1000" width="896.906" height="1000" role="img" aria-label="CTRC, rota G">
+  <title>CTRC · item 12 · rota G: Marco</title>
+  <desc>Corpo na obliqua terminando em ponta na diagonal, com vazado. O unico que fala de territorio.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"largura":620,"yOmbro":640,"vazadoAlt":230,"vazadoLarg":230,"yVazado":180}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M896.906 0L781.905 333.987L242.578 1000L0 700.441L241.181 0Z M453.397 180L374.202 410L617.455 410L696.65 180Z"/>
+</svg>

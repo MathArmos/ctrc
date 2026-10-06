@@ -1,0 +1,28 @@
+{
+  "ANILHA": {
+    "furoCentral": 0.155,
+    "aberturas": 4,
+    "aberturaRaio": 0.6,
+    "aberturaMeia": 0.13,
+    "aberturaEspessura": 0.075,
+    "aberturaGiro": 45
+  },
+  "AGUA": {
+    "filme": 0.72,
+    "inclinacao": 0.34,
+    "inclinacaoGrau": 108,
+    "manchaGrade": 5,
+    "manchaAmplitude": 0.6,
+    "bordaGanho": 0.8,
+    "bordaLargura": 0.017,
+    "bordaQuebra": 0.45,
+    "grao": 0.085,
+    "graoGrade": 150,
+    "graoFino": 0.022,
+    "respingoFaixa": 0.05,
+    "respingoChance": 0.07,
+    "relevoGanho": 0.78,
+    "limiar": 0.62,
+    "semente": 20261005
+  }
+}

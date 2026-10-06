@@ -1,0 +1,181 @@
+{
+  "A": {
+    "nome": "C aberto",
+    "parametros": {
+      "pesoHaste": 285,
+      "pesoLeve": 285,
+      "xTerminal": 1000,
+      "garra": 1
+    },
+    "caixa": {
+      "largura": 1230.788,
+      "altura": 1000,
+      "razao": 1.231
+    },
+    "familias": {
+      "0": 58.5,
+      "51": 6.8,
+      "-71": 27.9,
+      "-51": 6.8
+    },
+    "pecas": 1
+  },
+  "A2": {
+    "nome": "C aberto, terminal invertido",
+    "parametros": {
+      "pesoHaste": 285,
+      "pesoLeve": 285,
+      "xTerminal": 1000,
+      "garra": -1
+    },
+    "caixa": {
+      "largura": 1000,
+      "altura": 1000,
+      "razao": 1
+    },
+    "familias": {
+      "0": 50,
+      "51": 8.2,
+      "-71": 33.7,
+      "-51": 8.2
+    },
+    "pecas": 1
+  },
+  "B": {
+    "nome": "Escada",
+    "parametros": {
+      "barras": 4,
+      "altura": 175,
+      "vao": 100,
+      "xPonta": 1420,
+      "passo": 265
+    },
+    "caixa": {
+      "largura": 1420,
+      "altura": 1000,
+      "razao": 1.42
+    },
+    "familias": {
+      "0": 79.2,
+      "51": 0,
+      "-71": 9.4,
+      "-51": 11.4
+    },
+    "pecas": 4
+  },
+  "C": {
+    "nome": "C em dois tempos",
+    "parametros": {
+      "pesoHaste": 285,
+      "pesoLeve": 285,
+      "xTerminal": 1000,
+      "garra": 1,
+      "xCorte": 790,
+      "folga": 85
+    },
+    "caixa": {
+      "largura": 1230.788,
+      "altura": 1000,
+      "razao": 1.231
+    },
+    "familias": {
+      "0": 48.6,
+      "51": 5.5,
+      "-71": 40.5,
+      "-51": 5.5
+    },
+    "pecas": 3
+  },
+  "D": {
+    "nome": "CT travado",
+    "parametros": {
+      "pesoHaste": 250,
+      "pesoLeve": 250,
+      "xTerminal": 1150,
+      "garra": 1,
+      "tTopo": 300,
+      "tEspBarra": 150,
+      "tEsq": 620,
+      "tBarra": 470,
+      "tHaste": 185,
+      "tBase": 700
+    },
+    "caixa": {
+      "largura": 1352.446,
+      "altura": 1000,
+      "razao": 1.352
+    },
+    "familias": {
+      "0": 60.1,
+      "51": 4.1,
+      "-71": 26.9,
+      "-51": 9
+    },
+    "pecas": 2
+  },
+  "E": {
+    "nome": "Seta obliqua",
+    "parametros": {
+      "peso": 300,
+      "xPonta": 900,
+      "yBarba": 430
+    },
+    "caixa": {
+      "largura": 868.207,
+      "altura": 1000,
+      "razao": 0.868
+    },
+    "familias": {
+      "0": 23.1,
+      "51": 18.4,
+      "-71": 40.1,
+      "-51": 18.4
+    },
+    "pecas": 1
+  },
+  "F": {
+    "nome": "Rastro",
+    "parametros": {
+      "pesoHaste": 285,
+      "pesoLeve": 285,
+      "xTerminal": 1000,
+      "garra": 1,
+      "fator": 0.62,
+      "vao": 110
+    },
+    "caixa": {
+      "largura": 2645.192,
+      "altura": 1000,
+      "razao": 2.645
+    },
+    "familias": {
+      "0": 58.5,
+      "51": 6.8,
+      "-71": 27.9,
+      "-51": 6.8
+    },
+    "pecas": 3
+  },
+  "G": {
+    "nome": "Marco",
+    "parametros": {
+      "largura": 620,
+      "yOmbro": 640,
+      "vazadoAlt": 230,
+      "vazadoLarg": 230,
+      "yVazado": 180
+    },
+    "caixa": {
+      "largura": 896.906,
+      "altura": 1000,
+      "razao": 0.897
+    },
+    "familias": {
+      "0": 28.8,
+      "51": 9.7,
+      "-71": 39.9,
+      "-51": 21.6
+    },
+    "pecas": 2
+  }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 868.207 1000" width="868.207" height="1000" role="img" aria-label="CTRC, rota E">
+  <title>CTRC · item 12 · rota E: Seta obliqua</title>
+  <desc>Seta com haste na obliqua e barbas na diagonal. Construida para medir a distancia do chevron, nao por aposta.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"peso":300,"xPonta":900,"yBarba":430}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M868.207 430L513.553 430L317.286 1000L0 1000L196.267 430L171.793 430L520 0Z"/>
+</svg>

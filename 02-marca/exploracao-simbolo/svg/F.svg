@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2645.192 1000" width="2645.192" height="1000" role="img" aria-label="CTRC, rota F">
+  <title>CTRC · item 12 · rota F: Rastro</title>
+  <desc>O C tres vezes, menor e mais atras a cada passo. Direcao por repeticao.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":285,"pesoLeve":285,"xTerminal":1000,"garra":1,"fator":0.62,"vao":110}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M384.4 615.6L473.115 725.154L210.504 725.154L153.589 890.446L473.115 890.446L384.4 1000L0 1000L132.36 615.6Z M1161.315 380L1304.404 556.7L880.837 556.7L789.039 823.3L1304.404 823.3L1161.315 1000L541.315 1000L754.798 380Z M2414.404 0L2645.192 285L1962.02 285L1813.959 715L2645.192 715L2414.404 1000L1414.404 1000L1758.732 0Z"/>
+</svg>

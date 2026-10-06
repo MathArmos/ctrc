@@ -1,0 +1,278 @@
+{
+  "A-1": {
+    "nome": "C aberto, peso igual",
+    "parametros": {
+      "pesoHaste": 285,
+      "pesoLeve": 285,
+      "xTerminal": 1000,
+      "garra": 1
+    },
+    "caixa": {
+      "largura": 1230.788,
+      "altura": 1000,
+      "razao": 1.231
+    },
+    "familias": {
+      "0": 58.5,
+      "51": 6.8,
+      "-71": 27.9,
+      "-51": 6.8
+    },
+    "pecas": 1,
+    "vaoMinimo": null
+  },
+  "A-2": {
+    "nome": "C aberto, haste compensada",
+    "parametros": {
+      "pesoHaste": 300,
+      "pesoLeve": 250,
+      "xTerminal": 1000,
+      "garra": 1
+    },
+    "caixa": {
+      "largura": 1202.446,
+      "altura": 1000,
+      "razao": 1.202
+    },
+    "familias": {
+      "0": 58,
+      "51": 6.1,
+      "-71": 29.9,
+      "-51": 6.1
+    },
+    "pecas": 1,
+    "vaoMinimo": null
+  },
+  "A-3": {
+    "nome": "C aberto, leve",
+    "parametros": {
+      "pesoHaste": 255,
+      "pesoLeve": 212,
+      "xTerminal": 1000,
+      "garra": 1
+    },
+    "caixa": {
+      "largura": 1171.674,
+      "altura": 1000,
+      "razao": 1.172
+    },
+    "familias": {
+      "0": 58.5,
+      "51": 5.1,
+      "-71": 31.3,
+      "-51": 5.1
+    },
+    "pecas": 1,
+    "vaoMinimo": null
+  },
+  "D-1": {
+    "nome": "CT travado, T pequeno",
+    "parametros": {
+      "pesoHaste": 250,
+      "pesoLeve": 250,
+      "xTerminal": 1150,
+      "garra": 1,
+      "tTopo": 300,
+      "tEspBarra": 150,
+      "tEsq": 620,
+      "tBarra": 470,
+      "tHaste": 185,
+      "tBase": 700
+    },
+    "caixa": {
+      "largura": 1352.446,
+      "altura": 1000,
+      "razao": 1.352
+    },
+    "familias": {
+      "0": 60.1,
+      "51": 4.1,
+      "-71": 26.9,
+      "-51": 9
+    },
+    "pecas": 2,
+    "vaoMinimo": 42.3
+  },
+  "D-2": {
+    "nome": "CT travado, T cheio",
+    "parametros": {
+      "pesoHaste": 260,
+      "pesoLeve": 225,
+      "xTerminal": 1180,
+      "garra": 1,
+      "tTopo": 300,
+      "tEspBarra": 165,
+      "tEsq": 580,
+      "tBarra": 580,
+      "tHaste": 200,
+      "tBase": 740
+    },
+    "caixa": {
+      "largura": 1362.201,
+      "altura": 1000,
+      "razao": 1.362
+    },
+    "familias": {
+      "0": 60.8,
+      "51": 3.5,
+      "-71": 27,
+      "-51": 8.7
+    },
+    "pecas": 2,
+    "vaoMinimo": 12.1
+  },
+  "D-3": {
+    "nome": "CT travado, leve",
+    "parametros": {
+      "pesoHaste": 225,
+      "pesoLeve": 195,
+      "xTerminal": 1180,
+      "garra": 1,
+      "tTopo": 280,
+      "tEspBarra": 145,
+      "tEsq": 575,
+      "tBarra": 590,
+      "tHaste": 175,
+      "tBase": 760
+    },
+    "caixa": {
+      "largura": 1337.908,
+      "altura": 1000,
+      "razao": 1.338
+    },
+    "familias": {
+      "0": 60.6,
+      "51": 3,
+      "-71": 28.9,
+      "-51": 7.5
+    },
+    "pecas": 2,
+    "vaoMinimo": 20.4
+  },
+  "D-4": {
+    "nome": "CT travado, folga de 1 px",
+    "parametros": {
+      "pesoHaste": 225,
+      "pesoLeve": 195,
+      "xTerminal": 1180,
+      "garra": 1,
+      "tTopo": 285,
+      "tEspBarra": 130,
+      "tEsq": 585,
+      "tBarra": 560,
+      "tHaste": 170,
+      "tBase": 715
+    },
+    "caixa": {
+      "largura": 1337.908,
+      "altura": 1000,
+      "razao": 1.338
+    },
+    "familias": {
+      "0": 61.1,
+      "51": 3.1,
+      "-71": 28.6,
+      "-51": 7.2
+    },
+    "pecas": 2,
+    "vaoMinimo": 38.1
+  },
+  "D-5": {
+    "nome": "CT travado, ponta na obliqua",
+    "parametros": {
+      "pesoHaste": 225,
+      "pesoLeve": 195,
+      "xTerminal": 1180,
+      "garra": 1,
+      "tCorte": "obliqua",
+      "tTopo": 285,
+      "tEspBarra": 130,
+      "tEsq": 600,
+      "tBarra": 540,
+      "tHaste": 170,
+      "tBase": 715
+    },
+    "caixa": {
+      "largura": 1337.908,
+      "altura": 1000,
+      "razao": 1.338
+    },
+    "familias": {
+      "0": 61.4,
+      "51": 3.1,
+      "-71": 32.4,
+      "-51": 3.1
+    },
+    "pecas": 2,
+    "vaoMinimo": 90
+  },
+  "B-1": {
+    "nome": "Escada, quatro degraus",
+    "parametros": {
+      "barras": 4,
+      "altura": 175,
+      "vao": 100,
+      "xPonta": 1420,
+      "passo": 265
+    },
+    "caixa": {
+      "largura": 1420,
+      "altura": 1000,
+      "razao": 1.42
+    },
+    "familias": {
+      "0": 79.2,
+      "51": 0,
+      "-71": 9.4,
+      "-51": 11.4
+    },
+    "pecas": 4,
+    "vaoMinimo": 100
+  },
+  "B-2": {
+    "nome": "Escada, tres degraus",
+    "parametros": {
+      "barras": 3,
+      "altura": 250,
+      "vao": 125,
+      "xPonta": 1420,
+      "passo": 330
+    },
+    "caixa": {
+      "largura": 1420,
+      "altura": 1000,
+      "razao": 1.42
+    },
+    "familias": {
+      "0": 73.6,
+      "51": 0,
+      "-71": 11.9,
+      "-51": 14.5
+    },
+    "pecas": 3,
+    "vaoMinimo": 125
+  },
+  "B-3": {
+    "nome": "Escada, degrau longo",
+    "parametros": {
+      "barras": 4,
+      "altura": 140,
+      "vao": 145,
+      "xPonta": 1560,
+      "passo": 350
+    },
+    "caixa": {
+      "largura": 1558.278,
+      "altura": 995,
+      "razao": 1.566
+    },
+    "familias": {
+      "0": 83.1,
+      "51": 0,
+      "-71": 7.6,
+      "-51": 9.3
+    },
+    "pecas": 4,
+    "vaoMinimo": 145
+  }
+}

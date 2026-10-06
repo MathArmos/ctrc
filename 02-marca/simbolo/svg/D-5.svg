@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1337.908 1000" width="1337.908" height="1000" role="img" aria-label="CTRC, rota D-5">
+  <title>CTRC · item 12 · rota D-5: CT travado, ponta na obliqua</title>
+  <desc>Como a D-4, com as pontas da barra cortadas na obliqua em vez da diagonal: paralelas a haste do C, o vao entre as duas pecas fica constante em vez de afunilar para baixo.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":225,"pesoLeve":195,"xTerminal":1180,"garra":1,"tCorte":"obliqua","tTopo":285,"tEspBarra":130,"tEsq":600,"tBarra":540,"tHaste":170,"tBase":715}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1180 0L1337.908 195L515.148 195L305.109 805L1337.908 805L1180 1000L0 1000L344.328 0Z M1140 285L1095.237 415L915.135 415L811.837 715L632.041 715L735.34 415L555.237 415L600 285Z"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1202.446 1000" width="1202.446" height="1000" role="img" aria-label="CTRC, rota A-2">
+  <title>CTRC · item 12 · rota A-2: C aberto, haste compensada</title>
+  <desc>Haste 20 por cento mais pesada que os bracos, que e compensacao optica corrente: haste quase vertical pede mais peso que diagonal.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":300,"pesoLeve":250,"xTerminal":1000,"garra":1}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1000 0L1202.446 250L575.532 250L403.368 750L1202.446 750L1000 1000L0 1000L344.328 0Z"/>
+</svg>

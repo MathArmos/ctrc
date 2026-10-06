@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1230.788 1000" width="1230.788" height="1000" role="img" aria-label="CTRC, rota C">
+  <title>CTRC · item 12 · rota C: C em dois tempos</title>
+  <desc>O C da rota A com as duas pontas destacadas por um corte na obliqua: a marca lida como forma que se abre.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":285,"pesoLeve":285,"xTerminal":1000,"garra":1,"xCorte":790,"folga":85}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1134.328 0L1036.194 285L547.616 285L399.555 715L888.133 715L790 1000L0 1000L344.328 0Z M1000 0L1230.788 285L1126.092 285L1224.225 0Z M1230.788 715L1000 1000L879.898 1000L978.031 715Z"/>
+</svg>

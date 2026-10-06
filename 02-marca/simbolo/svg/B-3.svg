@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1558.278 995" width="1558.278" height="995" role="img" aria-label="CTRC, rota B-3">
+  <title>CTRC · item 12 · rota B-3: Escada, degrau longo</title>
+  <desc>Quatro barras finas com avanco maior: a subida fica mais explicita e a mancha mais leve.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"barras":4,"altura":140,"vao":145,"xPonta":1560,"passo":350}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1558.278 0L1444.909 140L294.4 140L342.606 0Z M1208.278 285L1094.909 425L196.267 425L244.473 285Z M858.278 570L744.909 710L98.133 710L146.339 570Z M508.278 855L394.909 995L0 995L48.206 855Z"/>
+</svg>

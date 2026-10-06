@@ -1,0 +1,130 @@
+{
+  "unidade": "altura de caixa alta = 1000, eixo y para baixo, origem no canto superior esquerdo da caixa",
+  "caixa": {
+    "largura": 1787.703,
+    "altura": 1000,
+    "razao": 1.788
+  },
+  "parametros": {
+    "capa": 0,
+    "base": 1000,
+    "yPisoContraforma": 488.9,
+    "anguloHaste": -71,
+    "anguloDiagonal": 51,
+    "pesoLeve": 252.37,
+    "pesoHaste": 275.21,
+    "xBaseHaste": 0,
+    "xTopoBraco": 1199.214,
+    "yEncontroPerna": 492.022,
+    "xTopoChevron": 1445.179,
+    "xBaseChevron": 1462.963
+  },
+  "vertices": {
+    "R": [
+      {
+        "id": "V1",
+        "rotulo": "V1 topo esquerdo",
+        "x": 344.328,
+        "y": 0
+      },
+      {
+        "id": "V2",
+        "rotulo": "V2 topo direito",
+        "x": 1199.214,
+        "y": 0
+      },
+      {
+        "id": "V3",
+        "rotulo": "V3 fim do corte do braco",
+        "x": 994.849,
+        "y": 252.37
+      },
+      {
+        "id": "V4",
+        "rotulo": "V4 topo esq. do contraforma",
+        "x": 548.497,
+        "y": 252.37
+      },
+      {
+        "id": "V5",
+        "rotulo": "V5 pe do contraforma na haste",
+        "x": 467.054,
+        "y": 488.9
+      },
+      {
+        "id": "V6",
+        "rotulo": "V6 nascimento da perna",
+        "x": 788.19,
+        "y": 488.9
+      },
+      {
+        "id": "V7",
+        "rotulo": "V7 pe direito da perna",
+        "x": 1202.071,
+        "y": 1000
+      },
+      {
+        "id": "V8",
+        "rotulo": "V8 pe esquerdo da perna",
+        "x": 877.331,
+        "y": 1000
+      },
+      {
+        "id": "V9",
+        "rotulo": "V9 encontro da perna com a haste",
+        "x": 465.979,
+        "y": 492.022
+      },
+      {
+        "id": "V10",
+        "rotulo": "V10 pe direito da haste",
+        "x": 291.068,
+        "y": 1000
+      },
+      {
+        "id": "V11",
+        "rotulo": "V11 pe esquerdo da haste",
+        "x": 0,
+        "y": 1000
+      }
+    ],
+    "C": [
+      {
+        "id": "W1",
+        "rotulo": "W1 topo esquerdo",
+        "x": 1445.179,
+        "y": 0
+      },
+      {
+        "id": "W2",
+        "rotulo": "W2 topo direito",
+        "x": 1769.919,
+        "y": 0
+      },
+      {
+        "id": "W3",
+        "rotulo": "W3 vertice interno",
+        "x": 1373.918,
+        "y": 489.019
+      },
+      {
+        "id": "W4",
+        "rotulo": "W4 pe direito",
+        "x": 1787.703,
+        "y": 1000
+      },
+      {
+        "id": "W5",
+        "rotulo": "W5 pe esquerdo",
+        "x": 1462.963,
+        "y": 1000
+      },
+      {
+        "id": "W6",
+        "rotulo": "W6 vertice externo",
+        "x": 1049.179,
+        "y": 489.019
+      }
+    ]
+  }
+}

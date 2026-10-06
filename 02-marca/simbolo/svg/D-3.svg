@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1337.908 1000" width="1337.908" height="1000" role="img" aria-label="CTRC, rota D-3">
+  <title>CTRC · item 12 · rota D-3: CT travado, leve</title>
+  <desc>Mesma proporcao da D-2 com todos os pesos reduzidos, para sobrar ar dentro da boca.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":225,"pesoLeve":195,"xTerminal":1180,"garra":1,"tTopo":280,"tEspBarra":145,"tEsq":575,"tBarra":590,"tHaste":175,"tBase":760}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1180 0L1337.908 195L515.148 195L305.109 805L1337.908 805L1180 1000L0 1000L344.328 0Z M1165 280L1047.581 425L845.123 425L729.773 760L544.69 760L660.04 425L457.581 425L575 280Z"/>
+</svg>

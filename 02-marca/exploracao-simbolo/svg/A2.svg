@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="CTRC, rota A2">
+  <title>CTRC · item 12 · rota A2: C aberto, terminal invertido</title>
+  <desc>Variante da A com o corte do terminal invertido. Mantida como registro: reprovou na distancia do chevron.
+Malha: horizontais 0, obliqua -71 (19 da vertical), diagonais 51.
+Parametros: {"pesoHaste":285,"pesoLeve":285,"xTerminal":1000,"garra":-1}
+Exploracao, nao e a marca escolhida. Contrato em 02-marca/exploracao-simbolo/contrato-da-rota.md</desc>
+  <path fill="#000000" fill-rule="evenodd" d="M1000 0L769.212 285L547.616 285L399.555 715L769.212 715L1000 1000L0 1000L344.328 0Z"/>
+</svg>
