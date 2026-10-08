@@ -1,0 +1,46 @@
+{
+  "item": 25,
+  "proibicoes": [
+    {
+      "titulo": "nao distorcer",
+      "motivo": "escala nao uniforme muda a espessura de haste, e u = 161,2 e a unidade de que saem o vao, a protecao e o sistema inteiro"
+    },
+    {
+      "titulo": "nao girar",
+      "motivo": "a malha da D-07 e absoluta: horizontais a 0 graus e obliquas a 19 da vertical. Girar a assinatura leva as duas familias para angulo nenhum"
+    },
+    {
+      "titulo": "nao pintar a palavra de vermelho no fundo escuro",
+      "motivo": "MEDIDO no item 28: vermelho sobre preto da 3,80:1, abaixo do piso de 4,5 para texto normal. O simbolo pode, porque ele e grafismo; a palavra nao, porque ela e texto"
+    },
+    {
+      "titulo": "nao recompor o vao",
+      "motivo": "o vao simbolo|palavra e 1u, e e dele que a area de protecao do item 24 e derivada. Encostar os dois faz a assinatura ler CCTRC"
+    },
+    {
+      "titulo": "nao vazar em contorno",
+      "motivo": "a marca e massa chapada. Vazada, ela perde o peso que a torna reconhecivel de longe, e o traco fecha o contraforma do C muito antes do tamanho minimo"
+    },
+    {
+      "titulo": "nao sombrear nem dar volume",
+      "motivo": "a marca atual existe hoje em tres vermelhos porque cada acabamento a reinterpreta. A proposta tem uma cor so e uma espessura so, e sombra reabre essa porta"
+    },
+    {
+      "titulo": "nao digitar CTRC na fonte, o lettering e desenhado",
+      "motivo": "a Big Shoulders e a MATRIZ, e o item 14 fez tres modificacoes nela. Em preto o lettering, e por cima em vermelho o contorno da fonte crua: no C o corte dos dois terminais a 19 graus muda 8.7% dos pixels, no R a perna vai para 19 graus e muda 1.5%"
+    },
+    {
+      "titulo": "nao usar abaixo do tamanho minimo",
+      "motivo": "MEDIDO com a regua do item 23: a 16 px de caixa alta a fidelidade e 0.815 e a folha aprova; a 10 px cai para 0.690 e a 8 px para 0.688, com os contraformas entupindo. Aqui estao os tres, ampliados 3x"
+    }
+  ],
+  "medidoAqui": {
+    "C crua->item14, pct de pixel diferente": 8.7,
+    "R crua->item14, pct de pixel diferente": 1.5,
+    "fidelidade 16px": 0.815,
+    "fidelidade 10px": 0.69,
+    "fidelidade 8px": 0.688,
+    "piso": 0.85,
+    "origemDaRegua": "item 23"
+  }
+}

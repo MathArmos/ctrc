@@ -1,0 +1,170 @@
+{
+  "item": 26,
+  "regua": "identica a do item 23: altura de CAIXA ALTA, N=400, limiar 128",
+  "ressalva": "o ANTES e o redesenho limpo do item 6 (IoU 0,980 contra a fotografia retificada), porque o vetor original nao existe (P-06)",
+  "leituraHonesta": [
+    "a marca atual pontua MAIS ALTO que a nova na IoU de reducao (0,899 contra 0,815 a 16 px), e isso esta declarado em vez de escondido",
+    "a IoU premia silhueta simples e traco grosso: a marca atual tem 2 pecas e a assinatura nova tem 5, mais uma palavra de quatro letras. Entre marcas de complexidade diferente a IoU mede complexidade, e nao qualidade",
+    "o que separa as duas e topologia, nao silhueta: contraformas fechados 0 contra 1, que e o achado 1 do PRD (o bojo do R nao fecha, e o olho fecha um K) medido por outro caminho",
+    "a marca atual FRAGMENTA a 24 px, de 2 pecas para 3, que e o achado 2 do PRD",
+    "a 16 px a contagem de pecas passa a depender do limiar nas duas marcas, entao ali quem decide e a folha de contato"
+  ],
+  "tabela": [
+    {
+      "marca": "marca atual (redesenho limpo do item 6)",
+      "razao": 1.788,
+      "tinta": 50.9,
+      "topologiaEmGrande": {
+        "pecas": 2,
+        "contraformas": 0,
+        "caixa": "715x400"
+      },
+      "porLimiar": {
+        "48px": {
+          "100": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "128": {
+            "pecas": 2,
+            "contraformas": 0
+          },
+          "160": {
+            "pecas": 2,
+            "contraformas": 0
+          },
+          "190": {
+            "pecas": 2,
+            "contraformas": 0
+          }
+        },
+        "24px": {
+          "100": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "128": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "160": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "190": {
+            "pecas": 2,
+            "contraformas": 0
+          }
+        },
+        "16px": {
+          "100": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "128": {
+            "pecas": 3,
+            "contraformas": 0
+          },
+          "160": {
+            "pecas": 2,
+            "contraformas": 0
+          },
+          "190": {
+            "pecas": 2,
+            "contraformas": 0
+          }
+        }
+      },
+      "48px": 0.962,
+      "48px_caixa": "86x48",
+      "48px_pecas": 2,
+      "48px_contraformas": 0,
+      "24px": 0.93,
+      "24px_caixa": "43x24",
+      "24px_pecas": 3,
+      "24px_contraformas": 0,
+      "16px": 0.899,
+      "16px_caixa": "29x16",
+      "16px_pecas": 3,
+      "16px_contraformas": 0
+    },
+    {
+      "marca": "assinatura CTRC (itens 13 a 16)",
+      "razao": 2.719,
+      "tinta": 50.5,
+      "topologiaEmGrande": {
+        "pecas": 5,
+        "contraformas": 1,
+        "caixa": "1112x409"
+      },
+      "porLimiar": {
+        "48px": {
+          "100": {
+            "pecas": 5,
+            "contraformas": 1
+          },
+          "128": {
+            "pecas": 5,
+            "contraformas": 1
+          },
+          "160": {
+            "pecas": 5,
+            "contraformas": 1
+          },
+          "190": {
+            "pecas": 5,
+            "contraformas": 1
+          }
+        },
+        "24px": {
+          "100": {
+            "pecas": 8,
+            "contraformas": 1
+          },
+          "128": {
+            "pecas": 5,
+            "contraformas": 1
+          },
+          "160": {
+            "pecas": 4,
+            "contraformas": 1
+          },
+          "190": {
+            "pecas": 3,
+            "contraformas": 1
+          }
+        },
+        "16px": {
+          "100": {
+            "pecas": 8,
+            "contraformas": 1
+          },
+          "128": {
+            "pecas": 8,
+            "contraformas": 1
+          },
+          "160": {
+            "pecas": 7,
+            "contraformas": 1
+          },
+          "190": {
+            "pecas": 4,
+            "contraformas": 1
+          }
+        }
+      },
+      "48px": 0.924,
+      "48px_caixa": "133x49",
+      "48px_pecas": 5,
+      "48px_contraformas": 1,
+      "24px": 0.872,
+      "24px_caixa": "67x25",
+      "24px_pecas": 5,
+      "24px_contraformas": 1,
+      "16px": 0.815,
+      "16px_caixa": "44x16",
+      "16px_pecas": 8,
+      "16px_contraformas": 1
+    }
+  ]
+}

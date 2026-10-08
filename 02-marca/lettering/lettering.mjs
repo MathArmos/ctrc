@@ -111,6 +111,16 @@ export function letraR() {
   return { cs, peExt, peInt, larguraPerna: +(peExt - peInt).toFixed(2) };
 }
 
+// ---------- a matriz crua, para quem precisa mostrar o ANTES ----------
+
+// A letra como a fonte entrega, sem nenhuma das tres modificacoes.
+// 🔴 ELA EXISTE PARA QUE NINGUEM RECARREGUE A FONTE POR CONTA PROPRIA. O item 25 precisa
+// desenhar o lettering ao lado da fonte crua para provar que as tres modificacoes existem,
+// e duas copias do caminho da matriz (arquivo, peso, escala) sao duas chances de uma divergir.
+export function letraCrua(ch) {
+  return daFonte(g(ch), ESC);
+}
+
 // ---------- M3: a palavra ----------
 
 // vaos entre caixas de letra, redesenhados. Nao sao os avancos da fonte.

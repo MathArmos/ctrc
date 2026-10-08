@@ -1,0 +1,73 @@
+{
+  "item": 24,
+  "unidade": "caixa alta = 1000",
+  "u": 161.2,
+  "u, o que e": "espessura de haste, medida no item 14 em quatro lugares da fonte",
+  "vaosInternos": [
+    {
+      "onde": "letra 1 contra letra 2",
+      "vao": 34
+    },
+    {
+      "onde": "letra 2 contra letra 3",
+      "vao": 34
+    },
+    {
+      "onde": "letra 3 contra letra 4",
+      "vao": 46
+    },
+    {
+      "onde": "simbolo contra palavra (horizontal)",
+      "vao": 161.2
+    },
+    {
+      "onde": "simbolo contra palavra (vertical)",
+      "vao": 120.9
+    }
+  ],
+  "maiorVaoInterno": 161.2,
+  "regra": "a area de protecao supera ESTRITAMENTE o maior vao interno, no menor multiplo inteiro de u",
+  "protecao": {
+    "multiplos_de_u": 2,
+    "unidades": 322.4,
+    "fracao da caixa alta": 0.322
+  },
+  "tamanhoMinimo": {
+    "piso": "altura de caixa alta",
+    "origem": "item 23, medido e aprovado na folha de contato",
+    "tabela": [
+      {
+        "peca": "assinatura-horizontal",
+        "razao": 2.719,
+        "cap minima px": 16,
+        "largura px": 44,
+        "altura px": 16,
+        "cap minima mm a 300dpi": 1.35,
+        "largura mm a 300dpi": 3.77
+      },
+      {
+        "peca": "assinatura-vertical",
+        "razao": 0.935,
+        "cap minima px": 16,
+        "largura px": 32,
+        "altura px": 35,
+        "cap minima mm a 300dpi": 1.35,
+        "largura mm a 300dpi": 2.74
+      },
+      {
+        "peca": "simbolo",
+        "razao": 0.58,
+        "cap minima px": 16,
+        "largura px": 9,
+        "altura px": 16,
+        "cap minima mm a 300dpi": 1.35,
+        "largura mm a 300dpi": 0.8
+      }
+    ]
+  },
+  "avatar": {
+    "diametro_px": 40,
+    "lado_do_quadrado_inscrito": 28.3,
+    "cap_que_cabe_px": 27
+  }
+}

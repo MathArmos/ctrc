@@ -14,6 +14,11 @@ import { palavra } from '../lettering/lettering.mjs';
 import { caixa, mover, paraSVG } from '../lettering/contorno.mjs';
 
 export const U = 161.2; // espessura de haste, medida no item 14
+
+// 🔴 ESTE ARQUIVO SO ESCREVE QUANDO RODADO DIRETO. Ele exporta `U`, que e a unidade do
+// sistema, e o item 24 precisa dela; sem esta guarda, importar a unidade reescrevia os
+// quatro SVG da assinatura como efeito colateral de uma leitura.
+const DIRETO = import.meta.url === `file://${process.argv[1]}`;
 // 🔴 O SIMBOLO VEM DE UMA FONTE UNICA, `simbolo-letra/simbolo.mjs`, e nunca e remontado aqui.
 // Antes desta linha existia uma copia da construcao de cada derivacao dentro deste arquivo, e
 // duas copias da mesma geometria sao duas chances de uma divergir.
@@ -61,6 +66,7 @@ escreve('simbolo', S, `item 18 · simbolo isolado · o C alargado em ${DELTA}`);
 }
 
 function escreve(nome, conts, nota) {
+  if (!DIRETO) return;
   const cx = caixa(conts);
   const n = mover(conts, -cx.minX, -cx.minY);
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${cx.largura.toFixed(2)} ${cx.altura.toFixed(2)}" width="${Math.round(cx.largura)}" height="${Math.round(cx.altura)}">
